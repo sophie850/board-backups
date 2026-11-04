@@ -32,7 +32,7 @@ await save(join("latest", "catalogue.json"), pretty(catalogue));
 
 // Collect every file a proposal references: logos, videos, custom package photos.
 const urls = new Set();
-const add = (u) => { if (typeof u === "string" && u.trim()) urls.add(u.trim()); };
+const add = (u) => { if (typeof u === "string" && u.trim() && !u.startsWith("data:")) urls.add(u.trim()); };
 for (const p of proposals) {
   const d = p.data || {};
   add(d.logoUrl); add(d.logoUrlOriginal); add(d.videoUrl);
