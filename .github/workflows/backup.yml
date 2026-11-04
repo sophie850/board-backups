@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: board-backup      # never run two backups at once
+  cancel-in-progress: false
+
 jobs:
   backup:
     runs-on: ubuntu-latest
@@ -27,5 +31,10 @@ jobs:
           git config user.name "BOARD backup"
           git config user.email "actions@github.com"
           git add -A
-          git diff --cached --quiet || git commit -m "Backup $(date -u +%Y-%m-%d)"
-          git push
+          git diff --cached --quiet && exit 0
+          git commit -m "Backup $(date -u +%Y-%m-%d)"
+          for i in 1 2 3; do
+            git pull --rebase -X theirs && git push && exit 0
+            sleep 5
+          done
+          exit 1
