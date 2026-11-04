@@ -22,7 +22,7 @@ const getJson = async (path) => {
 
 const proposals = await getJson("proposals?select=id,data,updated_at&order=id");
 const catalogue = await getJson("catalogue?select=id,data");
-if (!Array.isArray(proposals) || proposals.length === 0) throw new Error("No proposals returned — refusing to overwrite backup with an empty one");
+if (!Array.isArray(proposals) || proposals.length === 0) throw new Error("No proposals returned, refusing to overwrite backup with an empty one");
 
 const pretty = (o) => JSON.stringify(o, null, 2);
 await save(join("snapshots", today, "proposals.json"), pretty(proposals));
@@ -31,6 +31,7 @@ await save(join("latest", "proposals.json"), pretty(proposals));
 await save(join("latest", "catalogue.json"), pretty(catalogue));
 
 // Collect every file a proposal references: logos, videos, custom package photos.
+// Photos embedded directly in a proposal (data:...) are already inside proposals.json, so skip them.
 const urls = new Set();
 const add = (u) => { if (typeof u === "string" && u.trim() && !u.startsWith("data:")) urls.add(u.trim()); };
 for (const p of proposals) {
