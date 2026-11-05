@@ -2953,5 +2953,73 @@
       "logoUrlOriginal": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1785502265411-Firm-logo.png"
     },
     "updated_at": "2026-08-03T14:57:02.656+00:00"
+  },
+  {
+    "id": "zurich-ksmw15",
+    "data": {
+      "id": "zurich-ksmw15",
+      "cta": "talk",
+      "mode": "package",
+      "intro": "Dear Zurich team, \n\nWe're building a new landmark forum for European Private Enterprise, and we want Zurich in the room. \n\nPlease find below a preferential partnership proposal. This is supposed to be a starting point and we can of course tailor to suit your aims. Our hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to exploring further,",
+      "sector": "Insurance",
+      "company": "Zurich",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1793796465692-ZURN.SW_BIG.D-65d84d2b.png",
+      "manager": "Jake",
+      "package": {
+        "items": [
+          {
+            "type": "passes",
+            "unit": 2745,
+            "count": 2
+          },
+          {
+            "type": "meetings",
+            "unit": 950,
+            "count": 10
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471295520-public-speaker.jpg",
+            "price": 0.01,
+            "title": "Speaking Opportunity for a Senior Leader at Zurich",
+            "summary": "BOARD's programme is built for the European CEOs, Chairs, Non Executive Directors and investors in the room, and every session has to earn its place. Speaking opportunities are not sold. We work with partners only where there is genuine alignment: a shared view of the challenges facing Europe's private companies, and a contribution our audience will value, whether that is research, data or the experience of senior leaders.",
+            "benefits": [
+              "Where alignment exists, partners work closely with our content team to shape sessions within the programme.",
+              "BOARD retains editorial responsibility for the format, the topic and the participants, so that what reaches the stage is useful to the people in the room. This protects the standard of the forum, and with it the value of being part of it."
+            ]
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471317074-C-bvergely_port-hercule-nuit-cropped-2.webp",
+            "price": 0.001,
+            "title": "Launch Partner Status",
+            "summary": "Zurich - Front of mind at BOARD",
+            "benefits": [
+              "Headline branding across all physical and digital BOARD assets",
+              "Complimentary upgrade to the next stand size",
+              "Feature article in The BOARD Brief",
+              "Enhanced matchmaking concierge dedicated to your business",
+              "Featured profile in the matchmaking platform",
+              "Prominent branding across all physical and digital BOARD assets",
+              "LinkedIn announcement of your partnership",
+              "Your side events listed on the official agenda"
+            ]
+          }
+        ],
+        "discount": 0
+      },
+      "savedAt": 1793796717352,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [
+        "Relationship building",
+        "Thought leadership"
+      ],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-11-04T12:51:57.352+00:00"
   }
 ]

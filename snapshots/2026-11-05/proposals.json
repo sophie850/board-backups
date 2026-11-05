@@ -1,0 +1,3025 @@
+[
+  {
+    "id": "accenture-dom8f1",
+    "data": {
+      "id": "accenture-dom8f1",
+      "cta": "talk",
+      "mode": "package",
+      "intro": "Dear Accenture team, \n\nWe're building a new landmark forum for European Private Enterprise, and we want Accenture in the room. \n\nTo kick-start our conversation, we have built a preferential sponsorship package we are prepared to offer you for 2027. Our hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to connecting,",
+      "sector": "Management Consultancy",
+      "company": "Accenture",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1793095071571-accenture-8.svg",
+      "manager": "Jake",
+      "package": {
+        "items": [
+          {
+            "type": "passes",
+            "unit": 2745,
+            "count": 4
+          },
+          {
+            "type": "meetings",
+            "unit": 950,
+            "count": 10
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471295520-public-speaker.jpg",
+            "price": 0.01,
+            "title": "Speaking Opportunity for a Senior Leader at Accenture",
+            "summary": "BOARD's programme is built for the European CEOs, Chairs, Non Executive Directors and investors in the room, and every session has to earn its place. Speaking opportunities are not sold. We work with partners only where there is genuine alignment: a shared view of the challenges facing Europe's private companies, and a contribution our audience will value, whether that is research, data or the experience of senior leaders.",
+            "benefits": [
+              "Where alignment exists, partners work closely with our content team to shape sessions within the programme.",
+              "BOARD retains editorial responsibility for the format, the topic and the participants, so that what reaches the stage is useful to the people in the room. This protects the standard of the forum, and with it the value of being part of it."
+            ]
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471317074-C-bvergely_port-hercule-nuit-cropped-2.webp",
+            "price": 20000,
+            "title": "Launch Partner Status",
+            "summary": "Accenture - Front of mind at BOARD",
+            "benefits": [
+              "Headline branding across all physical and digital BOARD assets",
+              "Complimentary upgrade to the next stand size",
+              "Feature article in The BOARD Brief",
+              "Enhanced matchmaking concierge dedicated to your business",
+              "Featured profile in the matchmaking platform",
+              "Prominent branding across all physical and digital BOARD assets",
+              "LinkedIn announcement of your partnership",
+              "Your side events listed on the official agenda"
+            ]
+          }
+        ],
+        "discount": 20480
+      },
+      "savedAt": 1793095274995,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-10-27T10:01:14.995+00:00"
+  },
+  {
+    "id": "aim-experience-group-gjdx7g",
+    "data": {
+      "id": "aim-experience-group-gjdx7g",
+      "cta": "talk",
+      "intro": "",
+      "sector": "",
+      "company": "AIM Experience Group",
+      "logoUrl": "assets/proposal-logos/1789473626785-logo-solid.svg",
+      "manager": "",
+      "savedAt": 1789473811138,
+      "excluded": [
+        "new-1784129045565",
+        "new-1784129511393",
+        "new-1786369501416",
+        "dinner",
+        "lunch",
+        "connectivity",
+        "digital-app"
+      ],
+      "featured": [
+        "new-1784032814601",
+        "concierge",
+        "barista",
+        "new-1784188154266",
+        "relaxation"
+      ],
+      "videoUrl": "",
+      "logoScale": 1,
+      "showPrice": true,
+      "objectives": [
+        "Relationship building"
+      ],
+      "hideCatalogue": false,
+      "logoUrlOriginal": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1789473626785-logo-solid.svg"
+    },
+    "updated_at": "2026-09-15T12:03:31.138+00:00"
+  },
+  {
+    "id": "aim-experience-group-r97mue",
+    "data": {
+      "id": "aim-experience-group-r97mue",
+      "cta": "talk",
+      "intro": "",
+      "sector": "",
+      "company": "AIM Experience Group",
+      "logoUrl": "assets/proposal-logos/1789138461173-logo-solid.svg",
+      "manager": "",
+      "savedAt": 1789138505067,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": false,
+      "objectives": [],
+      "hideCatalogue": false,
+      "logoUrlOriginal": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1789138461173-logo-solid.svg"
+    },
+    "updated_at": "2026-09-11T14:55:05.067+00:00"
+  },
+  {
+    "id": "airportr-ongt1m",
+    "data": {
+      "id": "airportr-ongt1m",
+      "cta": "talk",
+      "intro": "Dear Airportr Team, \n\nDelighted to share how you could take your seat at the table in Monaco. \n\nWe look forward to chatting further about a potential partnership if of interest. \n\nVery best wishes",
+      "sector": "",
+      "company": "Airportr",
+      "logoUrl": "assets/proposal-logos/1790954209764-0x0.png",
+      "manager": "Jake",
+      "savedAt": 1790954300985,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": false,
+      "objectives": [],
+      "hideCatalogue": false,
+      "logoUrlOriginal": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1790954209764-0x0.png"
+    },
+    "updated_at": "2026-10-02T15:18:20.985+00:00"
+  },
+  {
+    "id": "aleph-alpha-qwynki",
+    "data": {
+      "id": "aleph-alpha-qwynki",
+      "cta": "talk",
+      "intro": "Dear Aleph Alpha team, \n\nDelighted to share how you could take your seat at the table in Monaco. \n\nI look forward to discussing,",
+      "sector": "Enterprise Tech & AI",
+      "company": "Aleph Alpha",
+      "logoUrl": "assets/proposal-logos/1790589469162-sbd_ala_hero_2-2.png",
+      "manager": "Rohan",
+      "savedAt": 1790589553753,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [],
+      "hideCatalogue": false,
+      "logoUrlOriginal": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1790589469162-sbd_ala_hero_2-2.png"
+    },
+    "updated_at": "2026-09-28T09:59:13.753+00:00"
+  },
+  {
+    "id": "algoteque-sbfkso",
+    "data": {
+      "id": "algoteque-sbfkso",
+      "cta": "talk",
+      "mode": "package",
+      "intro": "Dear Algoteque team, \n\nWe're building a new landmark forum for European Private Enterprise, and we want Algoteque in the room. \n\nWe have built a preferential sponsorship package we are prepared to offer you for 2027. Our hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to exploring further,",
+      "sector": "Enterprise Tech & AI",
+      "company": "Algoteque",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1792062295426-Logo-White-Algoteque-Innovation-Hub-scaled.png",
+      "manager": "Jake",
+      "package": {
+        "items": [
+          {
+            "type": "passes",
+            "unit": 2745,
+            "count": 1
+          },
+          {
+            "type": "meetings",
+            "unit": 950,
+            "count": 10
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471317074-C-bvergely_port-hercule-nuit-cropped-2.webp",
+            "price": 20000,
+            "title": "Launch Partner Status",
+            "summary": "Algoteque - Front of mind at BOARD",
+            "benefits": [
+              "Headline branding across all physical and digital BOARD assets",
+              "Complimentary upgrade to the next stand size",
+              "Feature article in The BOARD Brief",
+              "Enhanced matchmaking concierge dedicated to your business",
+              "Featured profile in the matchmaking platform",
+              "Prominent branding across all physical and digital BOARD assets",
+              "LinkedIn announcement of your partnership",
+              "Your side events listed on the official agenda"
+            ]
+          }
+        ],
+        "discount": 20000
+      },
+      "savedAt": 1792140411119,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [
+        "Relationship building",
+        "Thought leadership",
+        "Lead generation"
+      ],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-10-16T08:46:51.119+00:00"
+  },
+  {
+    "id": "alibaba-cloud-h0w8v9",
+    "data": {
+      "id": "alibaba-cloud-h0w8v9",
+      "cta": "talk",
+      "intro": "Dear Alibaba Cloud team, \n\nDelighted to share how you could take your seat at the table in Monaco...\n\nLooking forward to talking it through.",
+      "sector": "",
+      "company": "Alibaba Cloud",
+      "logoUrl": "assets/proposal-logos/1788199951678-alibabacloud.png",
+      "manager": "Jake",
+      "savedAt": 1789136909769,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [
+        "Relationship building",
+        "Lead generation"
+      ],
+      "hideCatalogue": false,
+      "logoUrlOriginal": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1788199951678-alibabacloud.png"
+    },
+    "updated_at": "2026-09-11T14:28:29.769+00:00"
+  },
+  {
+    "id": "alixpartners-fqs4r6",
+    "data": {
+      "id": "alixpartners-fqs4r6",
+      "cta": "talk",
+      "mode": "package",
+      "intro": "Dear AlixPartners team, \n\nWe're building a new landmark forum for European Private Enterprise, and we want AlixPartners in the room. \n\nPlease find below a preferential partnership proposal. This is supposed to be a starting point and we can of course tailor to suit your aims. Our hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to exploring further,",
+      "sector": "Management Consultancy",
+      "company": "AlixPartners",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1793624298152-2025-01-27-040527374-alix2.png",
+      "manager": "Jake",
+      "package": {
+        "items": [
+          {
+            "type": "passes",
+            "unit": 2745,
+            "count": 2
+          },
+          {
+            "type": "meetings",
+            "unit": 950,
+            "count": 10
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471295520-public-speaker.jpg",
+            "price": 0.01,
+            "title": "Speaking Opportunity for a Senior Leader at AlixPartners",
+            "summary": "BOARD's programme is built for the European CEOs, Chairs, Non Executive Directors and investors in the room, and every session has to earn its place. Speaking opportunities are not sold. We work with partners only where there is genuine alignment: a shared view of the challenges facing Europe's private companies, and a contribution our audience will value, whether that is research, data or the experience of senior leaders.",
+            "benefits": [
+              "Where alignment exists, partners work closely with our content team to shape sessions within the programme.",
+              "BOARD retains editorial responsibility for the format, the topic and the participants, so that what reaches the stage is useful to the people in the room. This protects the standard of the forum, and with it the value of being part of it."
+            ]
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471317074-C-bvergely_port-hercule-nuit-cropped-2.webp",
+            "price": 0.001,
+            "title": "Launch Partner Status",
+            "summary": "AlixPartners - Front of mind at BOARD",
+            "benefits": [
+              "Headline branding across all physical and digital BOARD assets",
+              "Complimentary upgrade to the next stand size",
+              "Feature article in The BOARD Brief",
+              "Enhanced matchmaking concierge dedicated to your business",
+              "Featured profile in the matchmaking platform",
+              "Prominent branding across all physical and digital BOARD assets",
+              "LinkedIn announcement of your partnership",
+              "Your side events listed on the official agenda"
+            ]
+          }
+        ],
+        "discount": 0
+      },
+      "savedAt": 1793624352345,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [
+        "Relationship building",
+        "Thought leadership"
+      ],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-11-02T12:59:12.345+00:00"
+  },
+  {
+    "id": "alvarez-marsal-a2jboy",
+    "data": {
+      "id": "alvarez-marsal-a2jboy",
+      "cta": "talk",
+      "mode": "package",
+      "intro": "Dear Alvarez & Marsal team, \n\nWe're building a new landmark forum for European Private Enterprise, and we want A&M in the room. \n\nPlease find below a preferential partnership proposal for BOARD. This is supposed to be a starting point and we can of course tailor to suit your aims. Our hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to exploring further,",
+      "sector": "Management Consultancy",
+      "company": "Alvarez & Marsal",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1793615212969-AlvarezAndMarsal_White_r8d4pn.webp",
+      "manager": "Jake",
+      "package": {
+        "items": [
+          {
+            "type": "passes",
+            "unit": 2745,
+            "count": 2
+          },
+          {
+            "type": "meetings",
+            "unit": 950,
+            "count": 10
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471295520-public-speaker.jpg",
+            "price": 0.01,
+            "title": "Speaking Opportunity for a Senior Leader at Alvarez & Marsal",
+            "summary": "BOARD's programme is built for the European CEOs, Chairs, Non Executive Directors and investors in the room, and every session has to earn its place. Speaking opportunities are not sold. We work with partners only where there is genuine alignment: a shared view of the challenges facing Europe's private companies, and a contribution our audience will value, whether that is research, data or the experience of senior leaders.",
+            "benefits": [
+              "Where alignment exists, partners work closely with our content team to shape sessions within the programme.",
+              "BOARD retains editorial responsibility for the format, the topic and the participants, so that what reaches the stage is useful to the people in the room. This protects the standard of the forum, and with it the value of being part of it."
+            ]
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471317074-C-bvergely_port-hercule-nuit-cropped-2.webp",
+            "price": 0.001,
+            "title": "Launch Partner Status",
+            "summary": "Alvarez & Marsal - Front of mind at BOARD",
+            "benefits": [
+              "Headline branding across all physical and digital BOARD assets",
+              "Complimentary upgrade to the next stand size",
+              "Feature article in The BOARD Brief",
+              "Enhanced matchmaking concierge dedicated to your business",
+              "Featured profile in the matchmaking platform",
+              "Prominent branding across all physical and digital BOARD assets",
+              "LinkedIn announcement of your partnership",
+              "Your side events listed on the official agenda"
+            ]
+          }
+        ],
+        "discount": 0
+      },
+      "savedAt": 1793615334815,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [
+        "Relationship building",
+        "Thought leadership"
+      ],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-11-02T10:28:54.815+00:00"
+  },
+  {
+    "id": "amazon-web-services-96drbf",
+    "data": {
+      "id": "amazon-web-services-96drbf",
+      "cta": "talk",
+      "mode": "package",
+      "intro": "Dear AWS team, \n\nWe're building a new landmark forum for European Private Enterprise, and we want AWS in the room. \n\nTo kick-start our conversation, we have built a highly preferential sponsorship package that we are prepared to offer you for 2027. Our hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to connecting,",
+      "sector": "Enterprise Tech & AI",
+      "company": "Amazon Web Services",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791356102748-1726309795amazon-web-services-logo-png.png",
+      "manager": "The BOARD team",
+      "package": {
+        "items": [
+          {
+            "type": "passes",
+            "unit": 2745,
+            "count": 4
+          },
+          {
+            "type": "meetings",
+            "unit": 950,
+            "count": 10
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791356621453-public-speaker.jpg",
+            "price": 0.01,
+            "title": "Speaking Opportunity for a Senior Leader at AWS",
+            "summary": "BOARD's programme is built for the European CEOs, Chairs, Non Executive Directors and investors in the room, and every session has to earn its place. Speaking opportunities are not sold. We work with partners only where there is genuine alignment: a shared view of the challenges facing Europe's private companies, and a contribution our audience will value, whether that is research, data or the experience of senior leaders.",
+            "benefits": [
+              "Where alignment exists, partners work closely with our content team to shape sessions within the programme.",
+              "BOARD retains editorial responsibility for the format, the topic and the participants, so that what reaches the stage is useful to the people in the room. This protects the standard of the forum, and with it the value of being part of it."
+            ]
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791357323165-C-bvergely_port-hercule-nuit-cropped-2.webp",
+            "price": 20000,
+            "title": "Launch Partner Status",
+            "summary": "AWS - Front of mind at BOARD.",
+            "benefits": [
+              "Headline branding across all physical and digital BOARD assets",
+              "Complimentary upgrade to the next stand size",
+              "Feature article in The BOARD Brief",
+              "Enhanced matchmaking concierge dedicated to your business",
+              "Featured profile in the matchmaking platform",
+              "Prominent branding across all physical and digital BOARD assets",
+              "LinkedIn announcement of your partnership",
+              "Your side events listed on the official agenda"
+            ]
+          }
+        ],
+        "discount": 30480
+      },
+      "savedAt": 1791454545778,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [
+        "Relationship building",
+        "Lead generation",
+        "Thought leadership"
+      ],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-10-08T10:15:45.778+00:00"
+  },
+  {
+    "id": "apgar-8xgayu",
+    "data": {
+      "id": "apgar-8xgayu",
+      "cta": "seat",
+      "mode": "package",
+      "intro": "Dear APGAR team, \n\nWe're building a new landmark forum for European Private Enterprise, and we want APGAR in the room. \n\nTo kick-start our conversation, we have built Two levels of preferential sponsorship package that we are prepared to offer you for 2027. This is our suggested package, including all of the aspects we discussed on our recent meeting. Our hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to connecting,",
+      "sector": "Enterprise Tech & AI",
+      "company": "APGAR",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1792507615038-APGAR-black-RGB-1024x210.webp",
+      "manager": "The BOARD Team",
+      "package": {
+        "items": [
+          {
+            "type": "opp",
+            "oppId": "new-1790254138983",
+            "price": 11500
+          },
+          {
+            "type": "opp",
+            "oppId": "dinner",
+            "price": 20000
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791381846243-public-speaker.jpg",
+            "price": 0.01,
+            "title": "Speaking Opportunity for a Senior Leader at APGAR",
+            "summary": "BOARD's programme is built for the European CEOs, Chairs, Non Executive Directors and investors in the room, and every session has to earn its place. Speaking opportunities are not sold. We work with partners only where there is genuine alignment: a shared view of the challenges facing Europe's private companies, and a contribution our audience will value, whether that is research, data or the experience of senior leaders.",
+            "benefits": [
+              "Where alignment exists, partners work closely with our content team to shape sessions within the programme.",
+              "BOARD retains editorial responsibility for the format, the topic and the participants, so that what reaches the stage is useful to the people in the room. This protects the standard of the forum, and with it the value of being part of it."
+            ]
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791381881794-C-bvergely_port-hercule-nuit-cropped-2.webp",
+            "price": 20000,
+            "title": "Launch Partner Status",
+            "summary": "APGAR - Front of mind at BOARD",
+            "benefits": [
+              "Your branding across all physical and digital BOARD assets",
+              "Your article in The BOARD Brief",
+              "Enhanced matchmaking concierge dedicated to your business",
+              "Featured profile in the matchmaking platform",
+              "LinkedIn announcement of your sponsorship",
+              "Your side events listed on the official agenda"
+            ]
+          }
+        ],
+        "discount": 20000
+      },
+      "savedAt": 1792508108271,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [
+        "Relationship building",
+        "Thought leadership",
+        "Lead generation"
+      ],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-10-20T14:55:08.271+00:00"
+  },
+  {
+    "id": "apgar-nlv0pn",
+    "data": {
+      "id": "apgar-nlv0pn",
+      "cta": "seat",
+      "mode": "package",
+      "intro": "Dear APGAR team, \n\nWe're building a new landmark forum for European Private Enterprise, and we want APGAR in the room. \n\nTo kick-start our conversation, we have built Two levels of preferential sponsorship package that we are prepared to offer you for 2027. This is the smallest of the two packages. Our hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to connecting,",
+      "sector": "Enterprise Tech & AI",
+      "company": "APGAR",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1792507615038-APGAR-black-RGB-1024x210.webp",
+      "manager": "The BOARD Team",
+      "package": {
+        "items": [
+          {
+            "type": "passes",
+            "unit": 2745,
+            "count": 3
+          },
+          {
+            "type": "opp",
+            "oppId": "dinner",
+            "price": 20000
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791381846243-public-speaker.jpg",
+            "price": 0.01,
+            "title": "Speaking Opportunity for a Senior Leader at APGAR",
+            "summary": "BOARD's programme is built for the European CEOs, Chairs, Non Executive Directors and investors in the room, and every session has to earn its place. Speaking opportunities are not sold. We work with partners only where there is genuine alignment: a shared view of the challenges facing Europe's private companies, and a contribution our audience will value, whether that is research, data or the experience of senior leaders.",
+            "benefits": [
+              "Where alignment exists, partners work closely with our content team to shape sessions within the programme.",
+              "BOARD retains editorial responsibility for the format, the topic and the participants, so that what reaches the stage is useful to the people in the room. This protects the standard of the forum, and with it the value of being part of it."
+            ]
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791381881794-C-bvergely_port-hercule-nuit-cropped-2.webp",
+            "price": 20000,
+            "title": "Launch Partner Status",
+            "summary": "APGAR - Front of mind at BOARD",
+            "benefits": [
+              "Your branding across all physical and digital BOARD assets",
+              "Your article in The BOARD Brief",
+              "Enhanced matchmaking concierge dedicated to your business",
+              "Featured profile in the matchmaking platform",
+              "LinkedIn announcement of your sponsorship",
+              "Your side events listed on the official agenda"
+            ]
+          }
+        ],
+        "discount": 20000
+      },
+      "savedAt": 1792508071530,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [
+        "Relationship building",
+        "Thought leadership",
+        "Lead generation"
+      ],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-10-20T14:54:31.53+00:00"
+  },
+  {
+    "id": "arx-robotics-gyhguu",
+    "data": {
+      "id": "arx-robotics-gyhguu",
+      "cta": "talk",
+      "mode": "package",
+      "intro": "Dear ARX Robotics Team, \n\nExcited to share what we are building at BOARD, and how you can get involved. \n\nLooking forward to exploring further,",
+      "sector": "",
+      "company": "ARX Robotics",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791294688826-68d02093c9e814fa4003e974_ARX-Robotics-Logo-white.png",
+      "manager": "Jake",
+      "package": {
+        "items": [
+          {
+            "type": "opp",
+            "oppId": "new-1784129511393",
+            "price": 9500
+          },
+          {
+            "type": "opp",
+            "oppId": "dinner",
+            "price": 15000
+          },
+          {
+            "type": "opp",
+            "oppId": "lunch",
+            "price": 10000
+          }
+        ],
+        "discount": 0
+      },
+      "savedAt": 1791294841711,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [
+        "Relationship building",
+        "Lead generation"
+      ],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-10-06T13:54:01.711+00:00"
+  },
+  {
+    "id": "ashurst-perkins-coie-hnufec",
+    "data": {
+      "id": "ashurst-perkins-coie-hnufec",
+      "cta": "talk",
+      "intro": "Dear Ashford Perkins Coie team, \n\nDelighted to share how you could take your seat at the table in Monaco. \n\nLook forward to exploring if of interest,",
+      "sector": "Legal, Regulatory & Compliance",
+      "company": "Ashurst Perkins Coie",
+      "logoUrl": "data:image/webp;base64,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",
+      "manager": "Chris",
+      "savedAt": 1790849431339,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-10-01T10:10:31.339+00:00"
+  },
+  {
+    "id": "auddy-vxyeis",
+    "data": {
+      "id": "auddy-vxyeis",
+      "cta": "talk",
+      "intro": "Dear Andrew, \n\nHere's an overview of what we're building at BOARD. \n\nLooking forward to speaking,",
+      "sector": "Enterprise Tech & AI",
+      "company": "AUDDY",
+      "logoUrl": "assets/proposal-logos/1790259479393-61.png",
+      "manager": "Jake",
+      "savedAt": 1790259546904,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": false,
+      "objectives": [],
+      "hideCatalogue": false,
+      "logoUrlOriginal": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1790259479393-61.png"
+    },
+    "updated_at": "2026-09-24T14:19:06.904+00:00"
+  },
+  {
+    "id": "bain-company-fqwbpd",
+    "data": {
+      "id": "bain-company-fqwbpd",
+      "cta": "talk",
+      "mode": "package",
+      "intro": "Dear Bain & Company team, \n\nWe're building a new landmark forum for European Private Enterprise, and we want Bain in the room. \n\nTo kick-start our conversation, we have built a preferential sponsorship package we are prepared to offer you for 2027. Our hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to connecting,",
+      "sector": "Management Consultancy",
+      "company": "Bain & Company",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791474823823-bainstackedlogo_dig_wht_1280x389px-1-1024x311.png",
+      "manager": "Jake",
+      "package": {
+        "items": [
+          {
+            "type": "passes",
+            "unit": 2745,
+            "count": 4
+          },
+          {
+            "type": "meetings",
+            "unit": 950,
+            "count": 10
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471295520-public-speaker.jpg",
+            "price": 0.01,
+            "title": "Speaking Opportunity for a Senior Leader at Bain & Company",
+            "summary": "BOARD's programme is built for the European CEOs, Chairs, Non Executive Directors and investors in the room, and every session has to earn its place. Speaking opportunities are not sold. We work with partners only where there is genuine alignment: a shared view of the challenges facing Europe's private companies, and a contribution our audience will value, whether that is research, data or the experience of senior leaders.",
+            "benefits": [
+              "Where alignment exists, partners work closely with our content team to shape sessions within the programme.",
+              "BOARD retains editorial responsibility for the format, the topic and the participants, so that what reaches the stage is useful to the people in the room. This protects the standard of the forum, and with it the value of being part of it."
+            ]
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471317074-C-bvergely_port-hercule-nuit-cropped-2.webp",
+            "price": 20000,
+            "title": "Launch Partner Status",
+            "summary": "Bain & Company - Front of mind at BOARD",
+            "benefits": [
+              "Headline branding across all physical and digital BOARD assets",
+              "Complimentary upgrade to the next stand size",
+              "Feature article in The BOARD Brief",
+              "Enhanced matchmaking concierge dedicated to your business",
+              "Featured profile in the matchmaking platform",
+              "Prominent branding across all physical and digital BOARD assets",
+              "LinkedIn announcement of your partnership",
+              "Your side events listed on the official agenda"
+            ]
+          }
+        ],
+        "discount": 20480
+      },
+      "savedAt": 1791474876542,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-10-08T15:54:36.542+00:00"
+  },
+  {
+    "id": "baringa-hm3zu6",
+    "data": {
+      "id": "baringa-hm3zu6",
+      "cta": "talk",
+      "mode": "package",
+      "intro": "Dear Baringa team, \n\nWe're building a new landmark forum for European Private Enterprise, and we want Baringa in the room. \n\nPlease find below a range of options for participating in BOARD. This is supposed to be a starting point and we can of course tailor the below to suit your aims. Our hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to exploring further,",
+      "sector": "Management Consultancy",
+      "company": "Baringa",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1793291528262-baringa-logo-2025-11-11-034601922.png",
+      "manager": "Jake",
+      "package": {
+        "items": [
+          {
+            "type": "passes",
+            "unit": 2745,
+            "count": 2
+          },
+          {
+            "type": "meetings",
+            "unit": 950,
+            "count": 10
+          },
+          {
+            "type": "opp",
+            "oppId": "new-1790254138983",
+            "price": 11500
+          },
+          {
+            "type": "opp",
+            "oppId": "lunch",
+            "price": 10000
+          },
+          {
+            "type": "opp",
+            "oppId": "dinner",
+            "price": 15000
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471295520-public-speaker.jpg",
+            "price": 0.01,
+            "title": "Speaking Opportunity for a Senior Leader at Baringa",
+            "summary": "BOARD's programme is built for the European CEOs, Chairs, Non Executive Directors and investors in the room, and every session has to earn its place. Speaking opportunities are not sold. We work with partners only where there is genuine alignment: a shared view of the challenges facing Europe's private companies, and a contribution our audience will value, whether that is research, data or the experience of senior leaders.",
+            "benefits": [
+              "Where alignment exists, partners work closely with our content team to shape sessions within the programme.",
+              "BOARD retains editorial responsibility for the format, the topic and the participants, so that what reaches the stage is useful to the people in the room. This protects the standard of the forum, and with it the value of being part of it."
+            ]
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471317074-C-bvergely_port-hercule-nuit-cropped-2.webp",
+            "price": 0.001,
+            "title": "Launch Partner Status",
+            "summary": "Baringa - Front of mind at BOARD",
+            "benefits": [
+              "Headline branding across all physical and digital BOARD assets",
+              "Complimentary upgrade to the next stand size",
+              "Feature article in The BOARD Brief",
+              "Enhanced matchmaking concierge dedicated to your business",
+              "Featured profile in the matchmaking platform",
+              "Prominent branding across all physical and digital BOARD assets",
+              "LinkedIn announcement of your partnership",
+              "Your side events listed on the official agenda"
+            ]
+          }
+        ],
+        "discount": 0
+      },
+      "savedAt": 1793291739353,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [
+        "Relationship building",
+        "Thought leadership"
+      ],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-10-29T16:35:39.353+00:00"
+  },
+  {
+    "id": "bearingpoint-ea39p1",
+    "data": {
+      "id": "bearingpoint-ea39p1",
+      "cta": "talk",
+      "mode": "package",
+      "intro": "Dear BearingPoint team, \n\nWe're building a new landmark forum for European Private Enterprise, and we want BearingPoint in the room. \n\nPlease find below a preferential partnership proposal. This is supposed to be a starting point and we can of course tailor to suit your aims. Our hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to exploring further,",
+      "sector": "",
+      "company": "BearingPoint",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1793621965612-BearingPoint_Logotype_White_RGB.png",
+      "manager": "Jake",
+      "package": {
+        "items": [
+          {
+            "type": "passes",
+            "unit": 2745,
+            "count": 2
+          },
+          {
+            "type": "meetings",
+            "unit": 950,
+            "count": 10
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471295520-public-speaker.jpg",
+            "price": 0.01,
+            "title": "Speaking Opportunity for a Senior Leader at BearingPoint",
+            "summary": "BOARD's programme is built for the European CEOs, Chairs, Non Executive Directors and investors in the room, and every session has to earn its place. Speaking opportunities are not sold. We work with partners only where there is genuine alignment: a shared view of the challenges facing Europe's private companies, and a contribution our audience will value, whether that is research, data or the experience of senior leaders.",
+            "benefits": [
+              "Where alignment exists, partners work closely with our content team to shape sessions within the programme.",
+              "BOARD retains editorial responsibility for the format, the topic and the participants, so that what reaches the stage is useful to the people in the room. This protects the standard of the forum, and with it the value of being part of it."
+            ]
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471317074-C-bvergely_port-hercule-nuit-cropped-2.webp",
+            "price": 0.001,
+            "title": "Launch Partner Status",
+            "summary": "BearingPoint - Front of mind at BOARD",
+            "benefits": [
+              "Headline branding across all physical and digital BOARD assets",
+              "Complimentary upgrade to the next stand size",
+              "Feature article in The BOARD Brief",
+              "Enhanced matchmaking concierge dedicated to your business",
+              "Featured profile in the matchmaking platform",
+              "Prominent branding across all physical and digital BOARD assets",
+              "LinkedIn announcement of your partnership",
+              "Your side events listed on the official agenda"
+            ]
+          }
+        ],
+        "discount": 0
+      },
+      "savedAt": 1793622297453,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [
+        "Relationship building",
+        "Thought leadership"
+      ],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-11-02T12:24:57.453+00:00"
+  },
+  {
+    "id": "bidmachine-dbp1bs",
+    "data": {
+      "id": "bidmachine-dbp1bs",
+      "cta": "talk",
+      "intro": "Dear BidMachine team, \n\nDelighted to share how you could take your seat at the table in Monaco. \n\nLook forward to talking it through,",
+      "sector": "Enterprise Tech & AI",
+      "company": "BidMachine",
+      "logoUrl": "assets/proposal-logos/1790865053286-bidmachine-logo-png_seeklogo-480721.png",
+      "manager": "Jake",
+      "savedAt": 1790865190914,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [],
+      "hideCatalogue": false,
+      "logoUrlOriginal": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1790865053286-bidmachine-logo-png_seeklogo-480721.png"
+    },
+    "updated_at": "2026-10-01T14:33:10.914+00:00"
+  },
+  {
+    "id": "boldspace-wlpn2v",
+    "data": {
+      "id": "boldspace-wlpn2v",
+      "cta": "talk",
+      "mode": "package",
+      "intro": "Dear Pamela, \n\nWe're building a new landmark forum for European Private Enterprise, and we want Boldspace in the room. \n\nWe have built a preferential sponsorship package we are prepared to offer you for 2027 including the benefits of our 'Launch Partner' status at no additional cost. We can of course tweak and tailor the above proposal to suit your needs, for now we have included everything we think might be relevant. \n\nOur hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to exploring further,",
+      "sector": "",
+      "company": "Boldspace",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1792679107948-Boldspace-Logo.png",
+      "manager": "Jake",
+      "package": {
+        "items": [
+          {
+            "type": "passes",
+            "unit": 2745,
+            "count": 2
+          },
+          {
+            "type": "meetings",
+            "unit": 950,
+            "count": 10
+          },
+          {
+            "type": "opp",
+            "oppId": "lunch",
+            "price": 10000
+          },
+          {
+            "type": "opp",
+            "oppId": "dinner",
+            "price": 15000
+          },
+          {
+            "type": "opp",
+            "oppId": "new-1790254138983",
+            "price": 11500
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471295520-public-speaker.jpg",
+            "price": 0.01,
+            "title": "Speaking Opportunity for a Senior Leader at Boldspace",
+            "summary": "BOARD's programme is built for the European CEOs, Chairs, Non Executive Directors and investors in the room, and every session has to earn its place. Speaking opportunities are not sold. We work with partners only where there is genuine alignment: a shared view of the challenges facing Europe's private companies, and a contribution our audience will value, whether that is research, data or the experience of senior leaders.",
+            "benefits": [
+              "Where alignment exists, partners work closely with our content team to shape sessions within the programme.",
+              "BOARD retains editorial responsibility for the format, the topic and the participants, so that what reaches the stage is useful to the people in the room. This protects the standard of the forum, and with it the value of being part of it."
+            ]
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471317074-C-bvergely_port-hercule-nuit-cropped-2.webp",
+            "price": 0.01,
+            "title": "Launch Partner Status",
+            "summary": "Boldspace - Front of mind at BOARD",
+            "benefits": [
+              "Headline branding across all physical and digital BOARD assets",
+              "Complimentary upgrade to the next stand size",
+              "Feature article in The BOARD Brief",
+              "Enhanced matchmaking concierge dedicated to your business",
+              "Featured profile in the matchmaking platform",
+              "Prominent branding across all physical and digital BOARD assets",
+              "LinkedIn announcement of your partnership",
+              "Your side events listed on the official agenda"
+            ]
+          }
+        ],
+        "discount": 0
+      },
+      "savedAt": 1792679385079,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [
+        "Relationship building"
+      ],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-10-22T14:29:45.079+00:00"
+  },
+  {
+    "id": "bolt-w1z9e9",
+    "data": {
+      "id": "bolt-w1z9e9",
+      "cta": "talk",
+      "mode": "brochure",
+      "intro": "Dear Bolt team, \n\nExcited to share what we're building at BOARD. \n\nLooking forward to exploring with you,",
+      "sector": "",
+      "company": "Bolt",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791556605287-bolt-logo_dark-badger_rgb.png",
+      "manager": "Rohan",
+      "savedAt": 1791556625455,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-10-09T14:37:05.455+00:00"
+  },
+  {
+    "id": "capital-com-3ceqeo",
+    "data": {
+      "id": "capital-com-3ceqeo",
+      "cta": "talk",
+      "mode": "brochure",
+      "intro": "Dear Capital.com Team\n\nExcited to share what we're building at BOARD. \n\nWe look forward to exploring a deeper partnership,",
+      "sector": "",
+      "company": "Capital.com",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791888934865-Capital.com_logo_2026_wordmark.png",
+      "manager": "The BOARD Team",
+      "savedAt": 1791888998125,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": false,
+      "objectives": [],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-10-13T10:56:38.126+00:00"
+  },
+  {
+    "id": "checkout-com-q6ofqb",
+    "data": {
+      "id": "checkout-com-q6ofqb",
+      "cta": "talk",
+      "intro": "Dear Checkout.com team, \n\nDelighted to share how you could take your seat at the table in Monaco. \n\nLooking forward to talking it through, \n\nJake",
+      "sector": "Enterprise Tech & AI",
+      "company": "Checkout.com",
+      "logoUrl": "assets/proposal-logos/1790243106717-checkout.png",
+      "manager": "",
+      "savedAt": 1790243195915,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [],
+      "hideCatalogue": false,
+      "logoUrlOriginal": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1790243106717-checkout.png"
+    },
+    "updated_at": "2026-09-24T09:46:35.915+00:00"
+  },
+  {
+    "id": "cisco-f9slyv",
+    "data": {
+      "id": "cisco-f9slyv",
+      "cta": "seat",
+      "intro": "Cisco should be at BOARD because that will make Christian lots of money, which he deserves because he is great.\n\nAlso, maybe lots of new potential clients will be there. And maybe even Johnny Martinez.\n\nAll in all, a great investment.",
+      "sector": "Enterprise Tech & AI",
+      "company": "Cisco",
+      "logoUrl": "assets/proposal-logos/1784127911898-CSCO.D-2114e564.png",
+      "manager": "Sophie",
+      "savedAt": 1784127972366,
+      "featured": [
+        "new-1784032814601",
+        "lanyard",
+        "connectivity",
+        "registration"
+      ],
+      "videoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/videos/1784127951393-51d00569-0416-4677-b031-a3a07d13755b.MP4",
+      "logoScale": 1.2,
+      "showPrice": true,
+      "objectives": [
+        "Brand awareness",
+        "Relationship building"
+      ],
+      "logoUrlOriginal": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1784127911898-CSCO.D-2114e564.png"
+    },
+    "updated_at": "2026-07-15T15:06:12.366+00:00"
+  },
+  {
+    "id": "cisco-xziol8",
+    "data": {
+      "id": "cisco-xziol8",
+      "cta": "seat",
+      "intro": "Cisco should be at BOARD because that will make Christian lots of money, which he deserves because he is great.\n\nAlso, maybe lots of new potential clients will be there. And maybe even Johnny Martinez.\n\nAll in all, a great investment.",
+      "sector": "Enterprise Tech & AI",
+      "company": "Cisco",
+      "logoUrl": "assets/proposal-logos/1784127224555-CSCO.D-2114e564.png",
+      "manager": "Sophie",
+      "savedAt": 1784127422509,
+      "featured": [],
+      "videoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/videos/1784127212679-51d00569-0416-4677-b031-a3a07d13755b.MP4",
+      "logoScale": 1.2,
+      "showPrice": true,
+      "objectives": [],
+      "logoUrlOriginal": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1784127224555-CSCO.D-2114e564.png"
+    },
+    "updated_at": "2026-07-15T14:57:02.509+00:00"
+  },
+  {
+    "id": "cisco-z8gkwu",
+    "data": {
+      "id": "cisco-z8gkwu",
+      "cta": "talk",
+      "intro": "",
+      "sector": "",
+      "company": "Cisco",
+      "logoUrl": "assets/proposal-logos/1784128446807-cisco-logo-white.png",
+      "manager": "",
+      "savedAt": 1784128483177,
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": false,
+      "objectives": [],
+      "logoUrlOriginal": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1784128446807-cisco-logo-white.png"
+    },
+    "updated_at": "2026-07-15T15:14:43.177+00:00"
+  },
+  {
+    "id": "clear-group-m0hry0",
+    "data": {
+      "id": "clear-group-m0hry0",
+      "cta": "talk",
+      "mode": "package",
+      "intro": "Dear Liam, \n\nWe're building a new landmark forum for European Private Enterprise, and we want Clear Group in the room. \n\nWe have built a preferential sponsorship package we are prepared to offer you for 2027. Our hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to exploring further,",
+      "sector": "Insurance",
+      "company": "Clear Group",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791885585419-clear-group-logo.png",
+      "manager": "Jake",
+      "package": {
+        "items": [
+          {
+            "type": "passes",
+            "unit": 2745,
+            "count": 2
+          },
+          {
+            "type": "meetings",
+            "unit": 950,
+            "count": 10
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471295520-public-speaker.jpg",
+            "price": 0.01,
+            "title": "Speaking Opportunity for a Senior Leader at Clear Group",
+            "summary": "BOARD's programme is built for the European CEOs, Chairs, Non Executive Directors and investors in the room, and every session has to earn its place. Speaking opportunities are not sold. We work with partners only where there is genuine alignment: a shared view of the challenges facing Europe's private companies, and a contribution our audience will value, whether that is research, data or the experience of senior leaders.",
+            "benefits": [
+              "Where alignment exists, partners work closely with our content team to shape sessions within the programme.",
+              "BOARD retains editorial responsibility for the format, the topic and the participants, so that what reaches the stage is useful to the people in the room. This protects the standard of the forum, and with it the value of being part of it."
+            ]
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471317074-C-bvergely_port-hercule-nuit-cropped-2.webp",
+            "price": 20000,
+            "title": "Launch Partner Status",
+            "summary": "Clear Group - Front of mind at BOARD",
+            "benefits": [
+              "Headline branding across all physical and digital BOARD assets",
+              "Complimentary upgrade to the next stand size",
+              "Feature article in The BOARD Brief",
+              "Enhanced matchmaking concierge dedicated to your business",
+              "Featured profile in the matchmaking platform",
+              "Prominent branding across all physical and digital BOARD assets",
+              "LinkedIn announcement of your partnership",
+              "Your side events listed on the official agenda"
+            ]
+          },
+          {
+            "type": "opp",
+            "oppId": "lunch",
+            "price": 10000
+          },
+          {
+            "type": "opp",
+            "oppId": "dinner",
+            "price": 15000
+          }
+        ],
+        "discount": 20000
+      },
+      "savedAt": 1791885880674,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [
+        "Relationship building",
+        "Thought leadership"
+      ],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-10-13T10:04:40.674+00:00"
+  },
+  {
+    "id": "clifford-chance-cu3mz9",
+    "data": {
+      "id": "clifford-chance-cu3mz9",
+      "cta": "talk",
+      "mode": "brochure",
+      "intro": "Dear Gijs, \n\nIt's a pleasure to show you what we're building at BOARD. \n\nHere's a bit more information, along with a brochure of options outlining how you can get involved. \n\nWe look forward to exploring further with you,",
+      "sector": "Legal, Regulatory & Compliance",
+      "company": "Clifford Chance",
+      "logoUrl": "data:image/webp;base64,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",
+      "manager": "Jake",
+      "savedAt": 1791227115070,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [
+        "Relationship building",
+        "Thought leadership"
+      ],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-10-05T19:05:15.07+00:00"
+  },
+  {
+    "id": "coreethos-s3qxjb",
+    "data": {
+      "id": "coreethos-s3qxjb",
+      "cta": "seat",
+      "intro": "Harm - \n\nIt was great speaking with this morning, really appreciate your time. \n\nPlease find attached sponsorship prospective - will give you some more insight to the event and how we can help introduce CorEthos to your ICP.",
+      "sector": "Management Consultancy",
+      "company": "CorEthos",
+      "logoUrl": "assets/proposal-logos/1785945397492-b8da47eb-9878-4227-9225-2263519c8395.png",
+      "manager": "Christian",
+      "savedAt": 1785945403257,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/videos/1785777664337-20260803_131602--1-.mp4",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [],
+      "hideCatalogue": false,
+      "logoUrlOriginal": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1785945397492-b8da47eb-9878-4227-9225-2263519c8395.png"
+    },
+    "updated_at": "2026-08-05T15:56:43.257+00:00"
+  },
+  {
+    "id": "deloitte-awygh2",
+    "data": {
+      "id": "deloitte-awygh2",
+      "cta": "talk",
+      "mode": "package",
+      "intro": "Dear Deloitte team, \n\nWe're building a new landmark forum for European Private Enterprise, and we want Deloitte in the room. \n\nTo kick-start our conversation, we have built a preferential sponsorship package we are prepared to offer you for 2027. Our hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to connecting,",
+      "sector": "Management Consultancy",
+      "company": "Deloitte",
+      "logoUrl": "assets/proposal-logos/1790851996255-Deloitte-Logo-White-01.webp",
+      "manager": "Jake",
+      "package": {
+        "items": [
+          {
+            "type": "passes",
+            "unit": 2745,
+            "count": 4
+          },
+          {
+            "type": "meetings",
+            "unit": 950,
+            "count": 10
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471295520-public-speaker.jpg",
+            "price": 0.01,
+            "title": "Speaking Opportunity for a Senior Leader at Deloitte",
+            "summary": "BOARD's programme is built for the European CEOs, Chairs, Non Executive Directors and investors in the room, and every session has to earn its place. Speaking opportunities are not sold. We work with partners only where there is genuine alignment: a shared view of the challenges facing Europe's private companies, and a contribution our audience will value, whether that is research, data or the experience of senior leaders.",
+            "benefits": [
+              "Where alignment exists, partners work closely with our content team to shape sessions within the programme.",
+              "BOARD retains editorial responsibility for the format, the topic and the participants, so that what reaches the stage is useful to the people in the room. This protects the standard of the forum, and with it the value of being part of it."
+            ]
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471317074-C-bvergely_port-hercule-nuit-cropped-2.webp",
+            "price": 20000,
+            "title": "Launch Partner Status",
+            "summary": "Deloitte - Front of mind at BOARD",
+            "benefits": [
+              "Headline branding across all physical and digital BOARD assets",
+              "Complimentary upgrade to the next stand size",
+              "Feature article in The BOARD Brief",
+              "Enhanced matchmaking concierge dedicated to your business",
+              "Featured profile in the matchmaking platform",
+              "Prominent branding across all physical and digital BOARD assets",
+              "LinkedIn announcement of your partnership",
+              "Your side events listed on the official agenda"
+            ]
+          }
+        ],
+        "discount": 20480
+      },
+      "savedAt": 1791471635908,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-10-08T15:00:35.908+00:00"
+  },
+  {
+    "id": "ey-16djhk",
+    "data": {
+      "id": "ey-16djhk",
+      "cta": "talk",
+      "mode": "package",
+      "intro": "Dear EY team,\n\nWe're building a new landmark forum for European Private Enterprise, and we want EY in the room. \n\nTo kick-start our conversation, we have built a preferential sponsorship package we are prepared to offer you for 2027. Our hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to connecting,",
+      "sector": "Management Consultancy",
+      "company": "EY",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791458364000-ernst-young-ey-logo-black-and-white.png",
+      "manager": "Jake",
+      "package": {
+        "items": [
+          {
+            "type": "passes",
+            "unit": 2745,
+            "count": 4
+          },
+          {
+            "type": "meetings",
+            "unit": 950,
+            "count": 10
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791458456241-public-speaker.jpg",
+            "price": 0.01,
+            "title": "Speaking Opportunity for a Senior Leader at EY",
+            "summary": "BOARD's programme is built for the European CEOs, Chairs, Non Executive Directors and investors in the room, and every session has to earn its place. Speaking opportunities are not sold. We work with partners only where there is genuine alignment: a shared view of the challenges facing Europe's private companies, and a contribution our audience will value, whether that is research, data or the experience of senior leaders.",
+            "benefits": [
+              "Where alignment exists, partners work closely with our content team to shape sessions within the programme.",
+              "BOARD retains editorial responsibility for the format, the topic and the participants, so that what reaches the stage is useful to the people in the room. This protects the standard of the forum, and with it the value of being part of it."
+            ]
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791458464740-C-bvergely_port-hercule-nuit-cropped-2.webp",
+            "price": 20000,
+            "title": "Launch Partner Status",
+            "summary": "EY - Front of mind at BOARD",
+            "benefits": [
+              "Headline branding across all physical and digital BOARD assets",
+              "Complimentary upgrade to the next stand size",
+              "Feature article in The BOARD Brief",
+              "Enhanced matchmaking concierge dedicated to your business",
+              "Featured profile in the matchmaking platform",
+              "Prominent branding across all physical and digital BOARD assets",
+              "LinkedIn announcement of your partnership",
+              "Your side events listed on the official agenda"
+            ]
+          }
+        ],
+        "discount": 20480
+      },
+      "savedAt": 1791461148913,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-10-08T12:05:48.913+00:00"
+  },
+  {
+    "id": "fever-7fyo9i",
+    "data": {
+      "id": "fever-7fyo9i",
+      "cta": "talk",
+      "mode": "brochure",
+      "intro": "Dear Fever Team\n\nExcited to share what we're building at BOARD. \n\nWe look forward to exploring how we could work together,",
+      "sector": "",
+      "company": "Fever",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1792064065061-410529-Fever_Logo_Neg_CMYK-8680b9-medium-1638544041.png",
+      "manager": "The BOARD Team",
+      "savedAt": 1792064415809,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": false,
+      "objectives": [],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-10-15T11:40:15.809+00:00"
+  },
+  {
+    "id": "gartner-5j6k7n",
+    "data": {
+      "id": "gartner-5j6k7n",
+      "cta": "talk",
+      "mode": "package",
+      "intro": "Dear Gartner Team,\n\nWe're building a new landmark forum for European Private Enterprise, and we want Gartner in the room. \n\nTo kick-start our conversation, we have built a preferential sponsorship package we are prepared to offer you for 2027. Our hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to connecting,",
+      "sector": "Management Consultancy",
+      "company": "Gartner",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791469755112-gartner-logo-black-and-white.png",
+      "manager": "Jake",
+      "package": {
+        "items": [
+          {
+            "type": "passes",
+            "unit": 2745,
+            "count": 4
+          },
+          {
+            "type": "meetings",
+            "unit": 950,
+            "count": 10
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791469944752-public-speaker.jpg",
+            "price": 0.01,
+            "title": "Speaking Opportunity for a Senior Leader from Gartner",
+            "summary": "BOARD's programme is built for the European CEOs, Chairs, Non Executive Directors and investors in the room, and every session has to earn its place. Speaking opportunities are not sold. We work with partners only where there is genuine alignment: a shared view of the challenges facing Europe's private companies, and a contribution our audience will value, whether that is research, data or the experience of senior leaders.",
+            "benefits": [
+              "Where alignment exists, partners work closely with our content team to shape sessions within the programme.",
+              "BOARD retains editorial responsibility for the format, the topic and the participants, so that what reaches the stage is useful to the people in the room. This protects the standard of the forum, and with it the value of being part of it."
+            ]
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791469952186-C-bvergely_port-hercule-nuit-cropped-2.webp",
+            "price": 20000,
+            "title": "Launch partner Status",
+            "summary": "Gartner - Front of mind at BOARD",
+            "benefits": [
+              "Headline branding across all physical and digital BOARD assets",
+              "Complimentary upgrade to the next stand size",
+              "Feature article in The BOARD Brief",
+              "Enhanced matchmaking concierge dedicated to your business",
+              "Featured profile in the matchmaking platform",
+              "Prominent branding across all physical and digital BOARD assets",
+              "LinkedIn announcement of your partnership",
+              "Your side events listed on the official agenda"
+            ]
+          }
+        ],
+        "discount": 20480
+      },
+      "savedAt": 1791470030803,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [
+        "Relationship building",
+        "Thought leadership"
+      ],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-10-08T14:33:50.803+00:00"
+  },
+  {
+    "id": "google-kthucd",
+    "data": {
+      "id": "google-kthucd",
+      "cta": "seat",
+      "intro": "",
+      "sector": "Enterprise Tech & AI",
+      "company": "Google",
+      "logoUrl": "assets/proposal-logos/1785351536543-google-white-logo.png",
+      "manager": "",
+      "savedAt": 1785353820823,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": false,
+      "objectives": [],
+      "hideCatalogue": false,
+      "logoUrlOriginal": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1785351536543-google-white-logo.png"
+    },
+    "updated_at": "2026-07-29T19:37:00.823+00:00"
+  },
+  {
+    "id": "google-qcchxk",
+    "data": {
+      "id": "google-qcchxk",
+      "cta": "seat",
+      "intro": "Dear Google team,\n\nThank you for taking a moment to look through this — I've put it together specifically with Google in mind.\n\nBOARD brings together the CEOs, boards and investors shaping Europe's fastest-growing companies for three days in Monaco. These are the leaders making decisions about cloud, AI, data and the technology partners they build their future on — and they're notoriously hard to reach in one place. At BOARD, they're all in the room.\n\nI've highlighted a handful of opportunities I think fit Google's goals particularly well, but the full programme is here for you to explore. Everything can be tailored — from how you show up on stage to the conversations we set up for your team.\n\nI'd love to find a time to talk through what a partnership could look like. Whatever questions you have, I'm on hand.\n\nWarm regards,",
+      "sector": "Enterprise Tech & AI",
+      "company": "Google",
+      "logoUrl": "assets/proposal-logos/1784278351032-google-white-logo.png",
+      "manager": "Christian",
+      "savedAt": 1784278418687,
+      "excluded": [],
+      "featured": [
+        "new-1784032814601",
+        "concierge",
+        "new-1784188154266"
+      ],
+      "videoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/videos/1784278404659-51d00569-0416-4677-b031-a3a07d13755b.MP4",
+      "logoScale": 1.2,
+      "showPrice": true,
+      "objectives": [
+        "Brand awareness",
+        "Relationship building",
+        "Thought leadership"
+      ],
+      "hideCatalogue": false,
+      "logoUrlOriginal": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1784278351032-google-white-logo.png"
+    },
+    "updated_at": "2026-07-17T08:53:38.687+00:00"
+  },
+  {
+    "id": "google-upnx0p",
+    "data": {
+      "id": "google-upnx0p",
+      "cta": "seat",
+      "intro": "Dear Google team,\n\nThank you for taking a moment to look through this — I've put it together specifically with Google in mind.\n\nBOARD brings together the CEOs, boards and investors shaping Europe's fastest-growing companies for three days in Monaco. These are the leaders making decisions about cloud, AI, data and the technology partners they build their future on — and they're notoriously hard to reach in one place. At BOARD, they're all in the room.\n\nI've highlighted a handful of opportunities I think fit Google's goals particularly well, but the full programme is here for you to explore. Everything can be tailored — from how you show up on stage to the conversations we set up for your team.\n\nI'd love to find a time to talk through what a partnership could look like. Whatever questions you have, I'm on hand.\n\nWarm regards,",
+      "sector": "Enterprise Tech & AI",
+      "company": "Google",
+      "logoUrl": "assets/proposal-logos/1784193787699-google-white-logo.png",
+      "manager": "Christian",
+      "savedAt": 1784278300718,
+      "excluded": [
+        "registration",
+        "bag-insert"
+      ],
+      "featured": [
+        "new-1784129511393",
+        "new-1784188154266"
+      ],
+      "videoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/videos/1784193934692-51d00569-0416-4677-b031-a3a07d13755b.MP4",
+      "logoScale": 1.2,
+      "showPrice": true,
+      "objectives": [
+        "Brand awareness",
+        "Lead generation"
+      ],
+      "hideCatalogue": false,
+      "logoUrlOriginal": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1784193787699-google-white-logo.png"
+    },
+    "updated_at": "2026-07-17T08:51:40.718+00:00"
+  },
+  {
+    "id": "google-xbjvto",
+    "data": {
+      "id": "google-xbjvto",
+      "intro": "",
+      "sector": "Enterprise Tech & AI",
+      "company": "Cisco",
+      "logoUrl": "assets/proposal-logos/1784123364472-CSCO.D-2114e564.png",
+      "manager": "",
+      "savedAt": 1784123404373,
+      "featured": [],
+      "showPrice": false,
+      "objectives": [],
+      "logoUrlOriginal": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1784123364472-CSCO.D-2114e564.png"
+    },
+    "updated_at": "2026-07-15T13:50:04.373+00:00"
+  },
+  {
+    "id": "heidrick-struggles-mq0rqn",
+    "data": {
+      "id": "heidrick-struggles-mq0rqn",
+      "cta": "seat",
+      "intro": "",
+      "sector": "Executive Search",
+      "company": "Heidrick & Struggles",
+      "logoUrl": "assets/proposal-logos/1786720335984-HSII.D-e82e73c8.png",
+      "manager": "",
+      "savedAt": 1786720410460,
+      "excluded": [],
+      "featured": [
+        "dinner",
+        "lunch",
+        "new-1784129511393"
+      ],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": false,
+      "objectives": [
+        "Relationship building",
+        "Thought leadership",
+        "Lead generation"
+      ],
+      "hideCatalogue": false,
+      "logoUrlOriginal": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1786720335984-HSII.D-e82e73c8.png"
+    },
+    "updated_at": "2026-08-14T15:13:30.46+00:00"
+  },
+  {
+    "id": "howden-0j4nl3",
+    "data": {
+      "id": "howden-0j4nl3",
+      "cta": "talk",
+      "intro": "Dear Howden team, \n\nExcited to share what we're building. \n\nLet us know what you think!",
+      "sector": "",
+      "company": "Howden",
+      "logoUrl": "assets/proposal-logos/1790930433483-Howden_Corporate_Logo_White_RGB_045bd8319d.png",
+      "manager": "Jake",
+      "savedAt": 1790930575399,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": false,
+      "objectives": [],
+      "hideCatalogue": false,
+      "logoUrlOriginal": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1790930433483-Howden_Corporate_Logo_White_RGB_045bd8319d.png"
+    },
+    "updated_at": "2026-10-02T08:42:55.399+00:00"
+  },
+  {
+    "id": "korn-ferry-auwgpc",
+    "data": {
+      "id": "korn-ferry-auwgpc",
+      "cta": "talk",
+      "mode": "package",
+      "intro": "Dear Korn Ferry team, \n\nWe're building a new landmark forum for European Private Enterprise, and we want Korn Ferry in the room. \n\nTo kick-start our conversation, we have built a preferential sponsorship package we are prepared to offer you for 2027. Our hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to connecting,",
+      "sector": "Management Consultancy",
+      "company": "Korn Ferry",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791472570695-KFY_BIG.D-d9681c21.png",
+      "manager": "Jake",
+      "package": {
+        "items": [
+          {
+            "type": "passes",
+            "unit": 2745,
+            "count": 4
+          },
+          {
+            "type": "meetings",
+            "unit": 950,
+            "count": 10
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471295520-public-speaker.jpg",
+            "price": 0.01,
+            "title": "Speaking Opportunity for a Senior Leader at Korn Ferry",
+            "summary": "BOARD's programme is built for the European CEOs, Chairs, Non Executive Directors and investors in the room, and every session has to earn its place. Speaking opportunities are not sold. We work with partners only where there is genuine alignment: a shared view of the challenges facing Europe's private companies, and a contribution our audience will value, whether that is research, data or the experience of senior leaders.",
+            "benefits": [
+              "Where alignment exists, partners work closely with our content team to shape sessions within the programme.",
+              "BOARD retains editorial responsibility for the format, the topic and the participants, so that what reaches the stage is useful to the people in the room. This protects the standard of the forum, and with it the value of being part of it."
+            ]
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471317074-C-bvergely_port-hercule-nuit-cropped-2.webp",
+            "price": 20000,
+            "title": "Launch Partner Status",
+            "summary": "Korn Ferry - Front of mind at BOARD",
+            "benefits": [
+              "Headline branding across all physical and digital BOARD assets",
+              "Complimentary upgrade to the next stand size",
+              "Feature article in The BOARD Brief",
+              "Enhanced matchmaking concierge dedicated to your business",
+              "Featured profile in the matchmaking platform",
+              "Prominent branding across all physical and digital BOARD assets",
+              "LinkedIn announcement of your partnership",
+              "Your side events listed on the official agenda"
+            ]
+          }
+        ],
+        "discount": 20480
+      },
+      "savedAt": 1791472719721,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-10-08T15:18:39.721+00:00"
+  },
+  {
+    "id": "korn-ferry-vvdxjj",
+    "data": {
+      "id": "korn-ferry-vvdxjj",
+      "cta": "talk",
+      "intro": "Hi Korn Ferry team,\n\nFollowing our meeting, we wanted to share a little more information on what we're building at BOARD. Please take a moment to read through and let me know if you have any questions.\n\nGiven Korn Ferry's role advising organisations on leadership, succession and performance,  we thought BOARD could provide a particularly relevant audience and conversation.\n\nTake a read, and hopefully speak again soon!",
+      "sector": "Management Consultancy",
+      "company": "Korn Ferry",
+      "logoUrl": "assets/proposal-logos/1785440569700-ecf58d67d454721eac06d452be865647b94c0631-800x334.png",
+      "manager": "Jake",
+      "savedAt": 1789664197937,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": false,
+      "objectives": [],
+      "hideCatalogue": false,
+      "logoUrlOriginal": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1785440569700-ecf58d67d454721eac06d452be865647b94c0631-800x334.png"
+    },
+    "updated_at": "2026-09-17T16:56:37.937+00:00"
+  },
+  {
+    "id": "kroll-8i1tcb",
+    "data": {
+      "id": "kroll-8i1tcb",
+      "cta": "talk",
+      "intro": "",
+      "sector": "Legal, Regulatory & Compliance",
+      "company": "Kroll",
+      "logoUrl": "assets/proposal-logos/1785254890119-kroll_logo_white.png",
+      "manager": "",
+      "savedAt": 1785255099653,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": false,
+      "objectives": [],
+      "hideCatalogue": false,
+      "logoUrlOriginal": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1785254890119-kroll_logo_white.png"
+    },
+    "updated_at": "2026-07-28T16:11:39.653+00:00"
+  },
+  {
+    "id": "marsh-w32qz4",
+    "data": {
+      "id": "marsh-w32qz4",
+      "cta": "talk",
+      "mode": "package",
+      "intro": "Dear Oliver Wyman Team,\n\nWe're building a new landmark forum for European Private Enterprise, and we want Oliver Wyman in the room. \n\nTo kick-start our conversation, we have built a preferential sponsorship package we are prepared to offer you for 2027. Our hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to connecting,",
+      "sector": "Management Consultancy",
+      "company": "Oliver Wyman",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791467484326-oliver-wyman-spotlight-2026-02-02-024620746.png",
+      "manager": "Jake",
+      "package": {
+        "items": [
+          {
+            "type": "passes",
+            "unit": 2745,
+            "count": 2
+          },
+          {
+            "type": "meetings",
+            "unit": 950,
+            "count": 10
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791467857208-public-speaker.jpg",
+            "price": 0.01,
+            "title": "Speaking Opportunity for a Senior Leader at Oliver Wyman",
+            "summary": "BOARD's programme is built for the European CEOs, Chairs, Non Executive Directors and investors in the room, and every session has to earn its place. Speaking opportunities are not sold. We work with partners only where there is genuine alignment: a shared view of the challenges facing Europe's private companies, and a contribution our audience will value, whether that is research, data or the experience of senior leaders.",
+            "benefits": [
+              "Where alignment exists, partners work closely with our content team to shape sessions within the programme.",
+              "BOARD retains editorial responsibility for the format, the topic and the participants, so that what reaches the stage is useful to the people in the room. This protects the standard of the forum, and with it the value of being part of it."
+            ]
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791467864485-C-bvergely_port-hercule-nuit-cropped-2.webp",
+            "price": 20000,
+            "title": "Launch Partner Status",
+            "summary": "Oliver Wyman - Front of mind at BOARD",
+            "benefits": [
+              "Headline branding across all physical and digital BOARD assets",
+              "Complimentary upgrade to the next stand size",
+              "Feature article in The BOARD Brief",
+              "Enhanced matchmaking concierge dedicated to your business",
+              "Featured profile in the matchmaking platform",
+              "Prominent branding across all physical and digital BOARD assets",
+              "LinkedIn announcement of your partnership",
+              "Your side events listed on the official agenda"
+            ]
+          }
+        ],
+        "discount": 20480
+      },
+      "savedAt": 1793621211694,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [
+        "Thought leadership",
+        "Relationship building"
+      ],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-11-02T12:06:51.694+00:00"
+  },
+  {
+    "id": "mckinsey-company-chwo71",
+    "data": {
+      "id": "mckinsey-company-chwo71",
+      "cta": "seat",
+      "mode": "package",
+      "intro": "Dear McKinsey team, \n\nWe're building a new landmark forum for European Private Enterprise, and we want McKinsey in the room. \n\nTo kick-start our conversation, we have built a preferential sponsorship package we are prepared to offer you for 2027. Our hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to connecting,",
+      "sector": "Management Consultancy",
+      "company": "McKinsey & Company",
+      "logoUrl": "assets/proposal-logos/1787323618619-mckinsey.D-f33efabe.png",
+      "manager": "The BOARD Team",
+      "package": {
+        "items": [
+          {
+            "type": "passes",
+            "unit": 2745,
+            "count": 4
+          },
+          {
+            "type": "meetings",
+            "unit": 950,
+            "count": 10
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791381846243-public-speaker.jpg",
+            "price": 0.01,
+            "title": "Speaking Opportunity for a Senior Leader at McKinsey",
+            "summary": "BOARD's programme is built for the European CEOs, Chairs, Non Executive Directors and investors in the room, and every session has to earn its place. Speaking opportunities are not sold. We work with partners only where there is genuine alignment: a shared view of the challenges facing Europe's private companies, and a contribution our audience will value, whether that is research, data or the experience of senior leaders.",
+            "benefits": [
+              "Where alignment exists, partners work closely with our content team to shape sessions within the programme.",
+              "BOARD retains editorial responsibility for the format, the topic and the participants, so that what reaches the stage is useful to the people in the room. This protects the standard of the forum, and with it the value of being part of it."
+            ]
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791381881794-C-bvergely_port-hercule-nuit-cropped-2.webp",
+            "price": 20000,
+            "title": "Launch Partner Status",
+            "summary": "McKinsey - Front of mind at BOARD",
+            "benefits": [
+              "Headline branding across all physical and digital BOARD assets",
+              "Complimentary upgrade to the next stand size",
+              "Feature article in The BOARD Brief",
+              "Enhanced matchmaking concierge dedicated to your business",
+              "Featured profile in the matchmaking platform",
+              "Prominent branding across all physical and digital BOARD assets",
+              "LinkedIn announcement of your partnership",
+              "Your side events listed on the official agenda"
+            ]
+          }
+        ],
+        "discount": 20480
+      },
+      "savedAt": 1791453961556,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [
+        "Brand awareness",
+        "Relationship building",
+        "Thought leadership"
+      ],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-10-08T10:06:01.556+00:00"
+  },
+  {
+    "id": "mckinsey-company-copy-co-9r92cv",
+    "data": {
+      "id": "mckinsey-company-copy-co-9r92cv",
+      "cta": "seat",
+      "mode": "package",
+      "intro": "Dear McKinsey team, \n\nWe're building a new landmark forum for European Private Enterprise, and we want McKinsey in the room. \n\nTo kick-start our conversation, we have built Three levels of preferential sponsorship package that we are prepared to offer you for 2027. This is the largest of three packages and positions McKinsey as Headline partners of a chosen topic of your choice. Our hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about an even deeper partnership from 2028.\n\nLooking forward to connecting,",
+      "sector": "Management Consultancy",
+      "company": "McKinsey & Company",
+      "logoUrl": "assets/proposal-logos/1787323618619-mckinsey.D-f33efabe.png",
+      "manager": "The BOARD Team",
+      "package": {
+        "items": [
+          {
+            "type": "passes",
+            "unit": 2745,
+            "count": 8
+          },
+          {
+            "type": "meetings",
+            "unit": 950,
+            "count": 20
+          },
+          {
+            "type": "opp",
+            "oppId": "new-1790254641680",
+            "price": 18500
+          },
+          {
+            "type": "opp",
+            "oppId": "dinner",
+            "price": 20000
+          },
+          {
+            "type": "opp",
+            "oppId": "lunch",
+            "price": 10000
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791381846243-public-speaker.jpg",
+            "price": 0.01,
+            "title": "Speaking Opportunity for a Senior Leader at McKinsey",
+            "summary": "BOARD's programme is built for the European CEOs, Chairs, Non Executive Directors and investors in the room, and every session has to earn its place. Speaking opportunities are not sold. We work with partners only where there is genuine alignment: a shared view of the challenges facing Europe's private companies, and a contribution our audience will value, whether that is research, data or the experience of senior leaders.",
+            "benefits": [
+              "Where alignment exists, partners work closely with our content team to shape sessions within the programme.",
+              "BOARD retains editorial responsibility for the format, the topic and the participants, so that what reaches the stage is useful to the people in the room. This protects the standard of the forum, and with it the value of being part of it."
+            ]
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791381881794-C-bvergely_port-hercule-nuit-cropped-2.webp",
+            "price": 40000,
+            "title": "Headline Category Partnership + Launch Partner Status",
+            "summary": "McKinsey - Front of mind at BOARD and Owning the topic of your choice",
+            "benefits": [
+              "Headline billing across all physical and digital BOARD assets in the agreed area",
+              "Editorial input into BOARD programme around topic of choice and opportunity to field a relevant speaker",
+              "Feature article in The BOARD Brief on the relevant topic",
+              "Enhanced matchmaking concierge dedicated to your business",
+              "Featured profile in the matchmaking platform",
+              "LinkedIn announcement of partnership and ongoing social media coverage of relevant news and updates",
+              "Your side events listed on the official agenda"
+            ]
+          }
+        ],
+        "discount": 29460
+      },
+      "savedAt": 1791915231177,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [
+        "Brand awareness",
+        "Relationship building",
+        "Thought leadership"
+      ],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-10-13T18:13:51.177+00:00"
+  },
+  {
+    "id": "mckinsey-company-copy-v0bbbq",
+    "data": {
+      "id": "mckinsey-company-copy-v0bbbq",
+      "cta": "seat",
+      "mode": "package",
+      "intro": "Dear McKinsey team, \n\nWe're building a new landmark forum for European Private Enterprise, and we want McKinsey in the room. \n\nTo kick-start our conversation, we have built Three levels of preferential sponsorship package that we are prepared to offer you for 2027. This is the middle of three packages. Our hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to connecting,",
+      "sector": "Management Consultancy",
+      "company": "McKinsey & Company",
+      "logoUrl": "assets/proposal-logos/1787323618619-mckinsey.D-f33efabe.png",
+      "manager": "The BOARD Team",
+      "package": {
+        "items": [
+          {
+            "type": "passes",
+            "unit": 2745,
+            "count": 6
+          },
+          {
+            "type": "opp",
+            "oppId": "dinner",
+            "price": 20000
+          },
+          {
+            "type": "meetings",
+            "unit": 950,
+            "count": 10
+          },
+          {
+            "type": "opp",
+            "oppId": "new-1790254138983",
+            "price": 11500
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791381846243-public-speaker.jpg",
+            "price": 0.01,
+            "title": "Speaking Opportunity for a Senior Leader at McKinsey",
+            "summary": "BOARD's programme is built for the European CEOs, Chairs, Non Executive Directors and investors in the room, and every session has to earn its place. Speaking opportunities are not sold. We work with partners only where there is genuine alignment: a shared view of the challenges facing Europe's private companies, and a contribution our audience will value, whether that is research, data or the experience of senior leaders.",
+            "benefits": [
+              "Where alignment exists, partners work closely with our content team to shape sessions within the programme.",
+              "BOARD retains editorial responsibility for the format, the topic and the participants, so that what reaches the stage is useful to the people in the room. This protects the standard of the forum, and with it the value of being part of it."
+            ]
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791381881794-C-bvergely_port-hercule-nuit-cropped-2.webp",
+            "price": 20000,
+            "title": "Launch Partner Status",
+            "summary": "McKinsey - Front of mind at BOARD",
+            "benefits": [
+              "Your branding across all physical and digital BOARD assets",
+              "Your article in The BOARD Brief",
+              "Enhanced matchmaking concierge dedicated to your business",
+              "Featured profile in the matchmaking platform",
+              "LinkedIn announcement of your sponsorship",
+              "Your side events listed on the official agenda"
+            ]
+          }
+        ],
+        "discount": 27470
+      },
+      "savedAt": 1791915261229,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [
+        "Brand awareness",
+        "Relationship building",
+        "Thought leadership"
+      ],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-10-13T18:14:21.229+00:00"
+  },
+  {
+    "id": "mckinsey-company-dxtl01",
+    "data": {
+      "id": "mckinsey-company-dxtl01",
+      "cta": "seat",
+      "mode": "package",
+      "intro": "Dear McKinsey team, \n\nWe're building a new landmark forum for European Private Enterprise, and we want McKinsey in the room. \n\nTo kick-start our conversation, we have built Three levels of preferential sponsorship package that we are prepared to offer you for 2027. This is the smallest of three packages. Our hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to connecting,",
+      "sector": "Management Consultancy",
+      "company": "McKinsey & Company",
+      "logoUrl": "assets/proposal-logos/1787323618619-mckinsey.D-f33efabe.png",
+      "manager": "The BOARD Team",
+      "package": {
+        "items": [
+          {
+            "type": "passes",
+            "unit": 2745,
+            "count": 4
+          },
+          {
+            "type": "opp",
+            "oppId": "dinner",
+            "price": 20000
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791381846243-public-speaker.jpg",
+            "price": 0.01,
+            "title": "Speaking Opportunity for a Senior Leader at McKinsey",
+            "summary": "BOARD's programme is built for the European CEOs, Chairs, Non Executive Directors and investors in the room, and every session has to earn its place. Speaking opportunities are not sold. We work with partners only where there is genuine alignment: a shared view of the challenges facing Europe's private companies, and a contribution our audience will value, whether that is research, data or the experience of senior leaders.",
+            "benefits": [
+              "Where alignment exists, partners work closely with our content team to shape sessions within the programme.",
+              "BOARD retains editorial responsibility for the format, the topic and the participants, so that what reaches the stage is useful to the people in the room. This protects the standard of the forum, and with it the value of being part of it."
+            ]
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791381881794-C-bvergely_port-hercule-nuit-cropped-2.webp",
+            "price": 20000,
+            "title": "Launch Partner Status",
+            "summary": "McKinsey - Front of mind at BOARD",
+            "benefits": [
+              "Your branding across all physical and digital BOARD assets",
+              "Your article in The BOARD Brief",
+              "Enhanced matchmaking concierge dedicated to your business",
+              "Featured profile in the matchmaking platform",
+              "LinkedIn announcement of your sponsorship",
+              "Your side events listed on the official agenda"
+            ]
+          }
+        ],
+        "discount": 25980
+      },
+      "savedAt": 1791915092873,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [
+        "Brand awareness",
+        "Relationship building",
+        "Thought leadership"
+      ],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-10-13T18:11:32.873+00:00"
+  },
+  {
+    "id": "mdd-okijcu",
+    "data": {
+      "id": "mdd-okijcu",
+      "cta": "seat",
+      "intro": "",
+      "sector": "",
+      "company": ".mdd",
+      "logoUrl": "assets/proposal-logos/1786379258697-Untitled-design--5-.png",
+      "manager": "",
+      "savedAt": 1786379277392,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1,
+      "showPrice": false,
+      "objectives": [],
+      "hideCatalogue": true,
+      "logoUrlOriginal": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1786379258697-Untitled-design--5-.png"
+    },
+    "updated_at": "2026-08-10T16:27:57.392+00:00"
+  },
+  {
+    "id": "metricool-6wia83",
+    "data": {
+      "id": "metricool-6wia83",
+      "cta": "talk",
+      "intro": "Dear Metricool team, \n\nDelighted to share what we're building at BOARD. \n\nWe'd love to get you involved and discuss more. \n\nLook forward to hearing your thoughts,",
+      "sector": "Enterprise Tech & AI",
+      "company": "Metricool",
+      "logoUrl": "assets/proposal-logos/1790940862464-Logo-metricool.png",
+      "manager": "Rohan",
+      "savedAt": 1790940963963,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": false,
+      "objectives": [],
+      "hideCatalogue": false,
+      "logoUrlOriginal": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1790940862464-Logo-metricool.png"
+    },
+    "updated_at": "2026-10-02T11:36:03.963+00:00"
+  },
+  {
+    "id": "nurole-i8og81",
+    "data": {
+      "id": "nurole-i8og81",
+      "cta": "seat",
+      "intro": "",
+      "sector": "Executive Search",
+      "company": "Nurole",
+      "logoUrl": "assets/proposal-logos/1784918417393-nurole.png",
+      "manager": "",
+      "savedAt": 1784918516237,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [],
+      "hideCatalogue": false,
+      "logoUrlOriginal": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1784918417393-nurole.png"
+    },
+    "updated_at": "2026-07-24T18:41:56.237+00:00"
+  },
+  {
+    "id": "odity-065fn1",
+    "data": {
+      "id": "odity-065fn1",
+      "cta": "talk",
+      "mode": "package",
+      "intro": "Dear Roxane, \n\nWe're building a new landmark forum for European Private Enterprise, and we want Odity in the room. \n\nWe have built a preferential sponsorship package we are prepared to offer you for 2027. Our hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to exploring further,",
+      "sector": "",
+      "company": "Odity",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791992885480-meta-logo-Odity.png",
+      "manager": "Jake",
+      "package": {
+        "items": [
+          {
+            "type": "passes",
+            "unit": 2745,
+            "count": 2
+          },
+          {
+            "type": "meetings",
+            "unit": 950,
+            "count": 10
+          },
+          {
+            "type": "opp",
+            "oppId": "lunch",
+            "price": 10000
+          },
+          {
+            "type": "opp",
+            "oppId": "dinner",
+            "price": 15000
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471317074-C-bvergely_port-hercule-nuit-cropped-2.webp",
+            "price": 20000,
+            "title": "Launch Partner Status",
+            "summary": "Clear Group - Front of mind at BOARD",
+            "benefits": [
+              "Headline branding across all physical and digital BOARD assets",
+              "Complimentary upgrade to the next stand size",
+              "Feature article in The BOARD Brief",
+              "Enhanced matchmaking concierge dedicated to your business",
+              "Featured profile in the matchmaking platform",
+              "Prominent branding across all physical and digital BOARD assets",
+              "LinkedIn announcement of your partnership",
+              "Your side events listed on the official agenda"
+            ]
+          }
+        ],
+        "discount": 20000
+      },
+      "savedAt": 1791993024013,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [
+        "Relationship building",
+        "Thought leadership",
+        "Lead generation"
+      ],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-10-14T15:50:24.013+00:00"
+  },
+  {
+    "id": "oxera-493e9t",
+    "data": {
+      "id": "oxera-493e9t",
+      "cta": "talk",
+      "mode": "package",
+      "intro": "Dear Oxera team, \n\nWe're building a new landmark forum for European Private Enterprise, and we want Oxera in the room. \n\nFollowing our initial call, please find below some options for participating in BOARD. This is supposed to be a starting point and we can of course tailor the below to your needs. Our hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to exploring further,",
+      "sector": "",
+      "company": "Oxera",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1793289780872-oxera-logo-2025-11-24-025808706.png",
+      "manager": "Jake",
+      "package": {
+        "items": [
+          {
+            "type": "passes",
+            "unit": 2745,
+            "count": 2
+          },
+          {
+            "type": "meetings",
+            "unit": 950,
+            "count": 10
+          },
+          {
+            "type": "opp",
+            "oppId": "new-1790254138983",
+            "price": 11500
+          },
+          {
+            "type": "opp",
+            "oppId": "lunch",
+            "price": 10000
+          },
+          {
+            "type": "opp",
+            "oppId": "dinner",
+            "price": 15000
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471295520-public-speaker.jpg",
+            "price": 0.01,
+            "title": "Speaking Opportunity for a Senior Leader at Oxera",
+            "summary": "BOARD's programme is built for the European CEOs, Chairs, Non Executive Directors and investors in the room, and every session has to earn its place. Speaking opportunities are not sold. We work with partners only where there is genuine alignment: a shared view of the challenges facing Europe's private companies, and a contribution our audience will value, whether that is research, data or the experience of senior leaders.",
+            "benefits": [
+              "Where alignment exists, partners work closely with our content team to shape sessions within the programme.",
+              "BOARD retains editorial responsibility for the format, the topic and the participants, so that what reaches the stage is useful to the people in the room. This protects the standard of the forum, and with it the value of being part of it."
+            ]
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471317074-C-bvergely_port-hercule-nuit-cropped-2.webp",
+            "price": 0.001,
+            "title": "Launch Partner Status",
+            "summary": "Oxera - Front of mind at BOARD",
+            "benefits": [
+              "Headline branding across all physical and digital BOARD assets",
+              "Complimentary upgrade to the next stand size",
+              "Feature article in The BOARD Brief",
+              "Enhanced matchmaking concierge dedicated to your business",
+              "Featured profile in the matchmaking platform",
+              "Prominent branding across all physical and digital BOARD assets",
+              "LinkedIn announcement of your partnership",
+              "Your side events listed on the official agenda"
+            ]
+          }
+        ],
+        "discount": 0
+      },
+      "savedAt": 1793291638400,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-10-29T16:33:58.4+00:00"
+  },
+  {
+    "id": "pwc-xa7omm",
+    "data": {
+      "id": "pwc-xa7omm",
+      "cta": "talk",
+      "mode": "package",
+      "intro": "Dear PwC team, \n\nWe're building a new landmark forum for European Private Enterprise, and we want PwC in the room. \n\nPlease find below a preferential partnership proposal. This is supposed to be a starting point and we can of course tailor to suit your aims. Our hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to exploring further,",
+      "sector": "Management Consultancy",
+      "company": "PwC",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1793620455867-P_web_j_g_u_pwc_outline_logo_white_476970_crop.png",
+      "manager": "Jake",
+      "package": {
+        "items": [
+          {
+            "type": "passes",
+            "unit": 2745,
+            "count": 2
+          },
+          {
+            "type": "meetings",
+            "unit": 950,
+            "count": 10
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471295520-public-speaker.jpg",
+            "price": 0.01,
+            "title": "Speaking Opportunity for a Senior Leader at PwC",
+            "summary": "BOARD's programme is built for the European CEOs, Chairs, Non Executive Directors and investors in the room, and every session has to earn its place. Speaking opportunities are not sold. We work with partners only where there is genuine alignment: a shared view of the challenges facing Europe's private companies, and a contribution our audience will value, whether that is research, data or the experience of senior leaders.",
+            "benefits": [
+              "Where alignment exists, partners work closely with our content team to shape sessions within the programme.",
+              "BOARD retains editorial responsibility for the format, the topic and the participants, so that what reaches the stage is useful to the people in the room. This protects the standard of the forum, and with it the value of being part of it."
+            ]
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471317074-C-bvergely_port-hercule-nuit-cropped-2.webp",
+            "price": 0.001,
+            "title": "Launch Partner Status",
+            "summary": "PwC - Front of mind at BOARD",
+            "benefits": [
+              "Headline branding across all physical and digital BOARD assets",
+              "Complimentary upgrade to the next stand size",
+              "Feature article in The BOARD Brief",
+              "Enhanced matchmaking concierge dedicated to your business",
+              "Featured profile in the matchmaking platform",
+              "Prominent branding across all physical and digital BOARD assets",
+              "LinkedIn announcement of your partnership",
+              "Your side events listed on the official agenda"
+            ]
+          }
+        ],
+        "discount": 0
+      },
+      "savedAt": 1793620609527,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [
+        "Relationship building",
+        "Thought leadership"
+      ],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-11-02T11:56:49.527+00:00"
+  },
+  {
+    "id": "ramp-3ryjzf",
+    "data": {
+      "id": "ramp-3ryjzf",
+      "cta": "seat",
+      "intro": "Hi Robbie,\n\nIt was great meeting you yesterday. Thanks again for making the time so soon after being away. I’m excited about the potential for BOARD to help Ramp accelerate its footprint across Europe.\n\nPlease take a look through the prospectus. There’s plenty of strong inventory designed to create meaningful introductions and engagement with CEOs and board-level leaders. That said, we will also be putting together some tailored ideas to make this partnership really work..... move on that next time we speak!",
+      "sector": "Enterprise Tech & AI",
+      "company": "ramp",
+      "logoUrl": "assets/proposal-logos/1786541805550-620d980c4e456a37c88a3fdc_ramp.png",
+      "manager": "Christian",
+      "savedAt": 1786723005324,
+      "excluded": [],
+      "featured": [
+        "new-1784129511393",
+        "dinner",
+        "lunch",
+        "new-1786368713133"
+      ],
+      "videoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/videos/1786543241391-20260812_095309--1---1-.mp4",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [
+        "Lead generation",
+        "Relationship building",
+        "Thought leadership",
+        "Brand awareness"
+      ],
+      "hideCatalogue": false,
+      "logoUrlOriginal": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1786541805550-620d980c4e456a37c88a3fdc_ramp.png"
+    },
+    "updated_at": "2026-08-14T15:56:45.324+00:00"
+  },
+  {
+    "id": "revolut-v6wxh6",
+    "data": {
+      "id": "revolut-v6wxh6",
+      "cta": "talk",
+      "mode": "brochure",
+      "intro": "Dear Revolut Team\n\nExcited to share what we're building at BOARD. \n\nWe look forward to getting you involved,",
+      "sector": "Enterprise Tech & AI",
+      "company": "Revolut",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791552481092-2UDoOjaVwPxn9ACR-6Wey1p-J8UiwOb11qDjVGRmw9MNu2FEAulDpXFp87sZ-Y1vTDKFf7OVJ1QUcJ2ABiERHw.webp",
+      "manager": "The BOARD Team",
+      "savedAt": 1791552568886,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": false,
+      "objectives": [],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-10-09T13:29:28.886+00:00"
+  },
+  {
+    "id": "rheinmetall-iy2zv0",
+    "data": {
+      "id": "rheinmetall-iy2zv0",
+      "cta": "talk",
+      "mode": "brochure",
+      "intro": "Dear Rheinmetall Team\n\nExcited to share what we're building at BOARD. \n\nWe look forward to exploring how we could work together,",
+      "sector": "",
+      "company": "Rheinmetall",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1792081016310-RHM.F_BIG.D-2bd08846.png",
+      "manager": "The BOARD Team",
+      "savedAt": 1792081039151,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": false,
+      "objectives": [],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-10-15T16:17:19.151+00:00"
+  },
+  {
+    "id": "russel-reynold-ntkj2h",
+    "data": {
+      "id": "russel-reynold-ntkj2h",
+      "cta": "talk",
+      "intro": "Hi Sarah - \n\nI wanted to share a little more about BOARD for your review, please take a moment to read through and let me know what else may be helpful. \n\nAt a high level I think BOARD can provide you direct access to CEOs, Chairs, NEDs and investors making critical decisions about their leadership, succession and the future composition....this platform gives your team the opportunity to shape conversations early and build relationships with  organizations seeking leadership advice. \n\nHoping to speak soon!",
+      "sector": "Executive Search",
+      "company": "Russell Reynolds",
+      "logoUrl": "assets/proposal-logos/1785338333349-russell-reynolds.png",
+      "manager": "Christian",
+      "savedAt": 1785350254150,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/videos/1785347003425-20260729_112241--1-.mp4",
+      "logoScale": 1.3,
+      "showPrice": false,
+      "objectives": [],
+      "hideCatalogue": false,
+      "logoUrlOriginal": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1785338333349-russell-reynolds.png"
+    },
+    "updated_at": "2026-07-29T18:37:34.15+00:00"
+  },
+  {
+    "id": "russell-reynolds-associa-ium3wm",
+    "data": {
+      "id": "russell-reynolds-associa-ium3wm",
+      "cta": "talk",
+      "mode": "brochure",
+      "intro": "Dear Russell Reynolds team, \n\nExcited to share what we're building at BOARD. \n\nWe look forward to getting you involved,",
+      "sector": "Executive Search",
+      "company": "Russell Reynolds Associates",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791464712583-russell-reynolds.png",
+      "manager": "The BOARD Team",
+      "savedAt": 1791464789209,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-10-08T13:06:29.209+00:00"
+  },
+  {
+    "id": "simpson-thacher-bartlett-xnp2do",
+    "data": {
+      "id": "simpson-thacher-bartlett-xnp2do",
+      "cta": "talk",
+      "mode": "package",
+      "intro": "Dear Simpson Thacher & Bartlett team, \n\nWe're building a new landmark forum for European Private Enterprise, and we want Simpson Thacher in the room. \n\nPlease find below a preferential partnership proposal for BOARD. This is supposed to be a starting point and we can of course tailor to suit your aims. Our hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to exploring further,",
+      "sector": "Legal, Regulatory & Compliance",
+      "company": "Simpson Thacher & Bartlett",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1793618826490-stblogo_1200x627_2021_white.png",
+      "manager": "Jake",
+      "package": {
+        "items": [
+          {
+            "type": "passes",
+            "unit": 2745,
+            "count": 2
+          },
+          {
+            "type": "meetings",
+            "unit": 950,
+            "count": 10
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471295520-public-speaker.jpg",
+            "price": 0.01,
+            "title": "Speaking Opportunity for a Senior Leader at Simpson Thacher & Bartlett",
+            "summary": "BOARD's programme is built for the European CEOs, Chairs, Non Executive Directors and investors in the room, and every session has to earn its place. Speaking opportunities are not sold. We work with partners only where there is genuine alignment: a shared view of the challenges facing Europe's private companies, and a contribution our audience will value, whether that is research, data or the experience of senior leaders.",
+            "benefits": [
+              "Where alignment exists, partners work closely with our content team to shape sessions within the programme.",
+              "BOARD retains editorial responsibility for the format, the topic and the participants, so that what reaches the stage is useful to the people in the room. This protects the standard of the forum, and with it the value of being part of it."
+            ]
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471317074-C-bvergely_port-hercule-nuit-cropped-2.webp",
+            "price": 0.001,
+            "title": "Launch Partner Status",
+            "summary": "Simpson Thacher & Bartlett - Front of mind at BOARD",
+            "benefits": [
+              "Headline branding across all physical and digital BOARD assets",
+              "Complimentary upgrade to the next stand size",
+              "Feature article in The BOARD Brief",
+              "Enhanced matchmaking concierge dedicated to your business",
+              "Featured profile in the matchmaking platform",
+              "Prominent branding across all physical and digital BOARD assets",
+              "LinkedIn announcement of your partnership",
+              "Your side events listed on the official agenda"
+            ]
+          }
+        ],
+        "discount": 0
+      },
+      "savedAt": 1793618874994,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [
+        "Relationship building",
+        "Thought leadership"
+      ],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-11-02T11:27:54.994+00:00"
+  },
+  {
+    "id": "snapchat-785yvd",
+    "data": {
+      "id": "snapchat-785yvd",
+      "cta": "talk",
+      "mode": "brochure",
+      "intro": "Dear Snapchat team, \n\nExcited to share what we're building at BOARD. \n\nLooking forward to exploring with you,",
+      "sector": "Enterprise Tech & AI",
+      "company": "Snapchat",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791301321920-snapchat-logo-white.png",
+      "manager": "Rohan",
+      "savedAt": 1791555471976,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-10-09T14:17:51.976+00:00"
+  },
+  {
+    "id": "sofascore-g8j8i5",
+    "data": {
+      "id": "sofascore-g8j8i5",
+      "cta": "talk",
+      "intro": "Dear Sofascore team,\n\nDelighted to share what we're building at BOARD. \n\nWe'd love to get you involved and discuss more. \n\nLook forward to hearing your thoughts,",
+      "sector": "Enterprise Tech & AI",
+      "company": "Sofascore",
+      "logoUrl": "assets/proposal-logos/1790943105093-hot-type-sofascore-logotype.svg",
+      "manager": "Rohan",
+      "savedAt": 1790943150670,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": false,
+      "objectives": [],
+      "hideCatalogue": false,
+      "logoUrlOriginal": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1790943105093-hot-type-sofascore-logotype.svg"
+    },
+    "updated_at": "2026-10-02T12:12:30.67+00:00"
+  },
+  {
+    "id": "summit-partners-1zvqxu",
+    "data": {
+      "id": "summit-partners-1zvqxu",
+      "cta": "talk",
+      "intro": "Dear Summit Partners team, \n\nDelighted to share how you could take your seat at the table in Monaco. \n\nWe look forward to exploring with you,",
+      "sector": "Investment & M&A Advisory",
+      "company": "Summit Partners",
+      "logoUrl": "assets/proposal-logos/1790863840565-65965591aee00667c95c5285_Summit-White.png",
+      "manager": "Rohan",
+      "savedAt": 1790863845207,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [],
+      "hideCatalogue": false,
+      "logoUrlOriginal": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1790863840565-65965591aee00667c95c5285_Summit-White.png"
+    },
+    "updated_at": "2026-10-01T14:10:45.207+00:00"
+  },
+  {
+    "id": "techcredit-partners-rypew7",
+    "data": {
+      "id": "techcredit-partners-rypew7",
+      "cta": "talk",
+      "intro": "",
+      "sector": "",
+      "company": "TechCredit Partners",
+      "logoUrl": "",
+      "manager": "",
+      "savedAt": 1787318267592,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1,
+      "showPrice": true,
+      "objectives": [],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-08-21T13:17:47.592+00:00"
+  },
+  {
+    "id": "telus-digital-9dcidq",
+    "data": {
+      "id": "telus-digital-9dcidq",
+      "cta": "talk",
+      "intro": "Dear TELLUS Digital team, \n\nDelighted to share how you could take your seat at the table in Monaco. \n\nLooking forward to exploring further,",
+      "sector": "Enterprise Tech & AI",
+      "company": "TELUS Digital",
+      "logoUrl": "assets/proposal-logos/1790246905804-TELUS_Digital_brand_evolution_blog_02__1_.webp",
+      "manager": "Jake",
+      "savedAt": 1790247131749,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [],
+      "hideCatalogue": false,
+      "logoUrlOriginal": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1790246905804-TELUS_Digital_brand_evolution_blog_02__1_.webp"
+    },
+    "updated_at": "2026-09-24T10:52:11.749+00:00"
+  },
+  {
+    "id": "temu-e6j0iv",
+    "data": {
+      "id": "temu-e6j0iv",
+      "cta": "talk",
+      "mode": "brochure",
+      "intro": "Dear TEMU Team, \n\nExcited to share what we're building at BOARD. \n\nLooking forward to exploring how you could get involved, give us a shout if you have any questions!",
+      "sector": "",
+      "company": "TEMU",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791455797095-temu-light.png",
+      "manager": "Jake",
+      "savedAt": 1791455801211,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-10-08T10:36:41.211+00:00"
+  },
+  {
+    "id": "teneo-xukhh0",
+    "data": {
+      "id": "teneo-xukhh0",
+      "cta": "talk",
+      "mode": "package",
+      "intro": "Dear Teneo team, \n\nWe're building a new landmark forum for European Private Enterprise, and we want Teneo in the room. \n\nPlease find below a preferential partnership proposal. This is supposed to be a starting point and we can of course tailor to suit your aims. Our hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to exploring further,",
+      "sector": "",
+      "company": "Teneo",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1793623463996-teneo-holdings.png",
+      "manager": "Jake",
+      "package": {
+        "items": [
+          {
+            "type": "passes",
+            "unit": 2745,
+            "count": 2
+          },
+          {
+            "type": "meetings",
+            "unit": 950,
+            "count": 10
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471295520-public-speaker.jpg",
+            "price": 0.01,
+            "title": "Speaking Opportunity for a Senior Leader at Teneo",
+            "summary": "BOARD's programme is built for the European CEOs, Chairs, Non Executive Directors and investors in the room, and every session has to earn its place. Speaking opportunities are not sold. We work with partners only where there is genuine alignment: a shared view of the challenges facing Europe's private companies, and a contribution our audience will value, whether that is research, data or the experience of senior leaders.",
+            "benefits": [
+              "Where alignment exists, partners work closely with our content team to shape sessions within the programme.",
+              "BOARD retains editorial responsibility for the format, the topic and the participants, so that what reaches the stage is useful to the people in the room. This protects the standard of the forum, and with it the value of being part of it."
+            ]
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471317074-C-bvergely_port-hercule-nuit-cropped-2.webp",
+            "price": 0.001,
+            "title": "Launch Partner Status",
+            "summary": "Teneo - Front of mind at BOARD",
+            "benefits": [
+              "Headline branding across all physical and digital BOARD assets",
+              "Complimentary upgrade to the next stand size",
+              "Feature article in The BOARD Brief",
+              "Enhanced matchmaking concierge dedicated to your business",
+              "Featured profile in the matchmaking platform",
+              "Prominent branding across all physical and digital BOARD assets",
+              "LinkedIn announcement of your partnership",
+              "Your side events listed on the official agenda"
+            ]
+          }
+        ],
+        "discount": 0
+      },
+      "savedAt": 1793623508701,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [
+        "Relationship building",
+        "Thought leadership"
+      ],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-11-02T12:45:08.701+00:00"
+  },
+  {
+    "id": "test-company-17c3mh",
+    "data": {
+      "id": "test-company-17c3mh",
+      "cta": "talk",
+      "mode": "package",
+      "intro": "",
+      "sector": "Enterprise Tech & AI",
+      "company": "Test Company",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1790964118371-Board_logo_W.png",
+      "manager": "",
+      "package": {
+        "items": [
+          {
+            "type": "meetings",
+            "unit": 750,
+            "count": 10
+          },
+          {
+            "type": "passes",
+            "unit": 2150,
+            "count": 4
+          },
+          {
+            "type": "opp",
+            "oppId": "lunch",
+            "price": 10000
+          },
+          {
+            "type": "opp",
+            "oppId": "relaxation",
+            "price": null
+          }
+        ],
+        "discount": 8600
+      },
+      "savedAt": 1790964189815,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1,
+      "showPrice": true,
+      "objectives": [],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-10-02T18:03:09.815+00:00"
+  },
+  {
+    "id": "vercel-x395ld",
+    "data": {
+      "id": "vercel-x395ld",
+      "cta": "talk",
+      "intro": "",
+      "sector": "Enterprise Tech & AI",
+      "company": "Vercel",
+      "logoUrl": "assets/proposal-logos/1785328932916-vercel_logo.png",
+      "manager": "",
+      "savedAt": 1785328964021,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": false,
+      "objectives": [],
+      "hideCatalogue": false,
+      "logoUrlOriginal": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1785328932916-vercel_logo.png"
+    },
+    "updated_at": "2026-07-29T12:42:44.021+00:00"
+  },
+  {
+    "id": "wellington-management-bqcsa9",
+    "data": {
+      "id": "wellington-management-bqcsa9",
+      "cta": "talk",
+      "mode": "package",
+      "intro": "Dear Wellington Management team, \n\nWe're building a new landmark forum for European Private Enterprise, and we want Wellington Management in the room. \n\nPlease find below a preferential partnership proposal for BOARD. This is supposed to be a starting point and we can of course tailor to suit your aims. Our hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to exploring further,",
+      "sector": "",
+      "company": "Wellington Management",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1793617253214-Wellington-Management.png",
+      "manager": "Jake",
+      "package": {
+        "items": [
+          {
+            "type": "opp",
+            "oppId": "new-1790254138983",
+            "price": 11500
+          },
+          {
+            "type": "meetings",
+            "unit": 950,
+            "count": 10
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471295520-public-speaker.jpg",
+            "price": 0.01,
+            "title": "Speaking Opportunity for a Senior Leader at Wellington Management",
+            "summary": "BOARD's programme is built for the European CEOs, Chairs, Non Executive Directors and investors in the room, and every session has to earn its place. Speaking opportunities are not sold. We work with partners only where there is genuine alignment: a shared view of the challenges facing Europe's private companies, and a contribution our audience will value, whether that is research, data or the experience of senior leaders.",
+            "benefits": [
+              "Where alignment exists, partners work closely with our content team to shape sessions within the programme.",
+              "BOARD retains editorial responsibility for the format, the topic and the participants, so that what reaches the stage is useful to the people in the room. This protects the standard of the forum, and with it the value of being part of it."
+            ]
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471317074-C-bvergely_port-hercule-nuit-cropped-2.webp",
+            "price": 0.001,
+            "title": "Launch Partner Status",
+            "summary": "Wellington Management - Front of mind at BOARD",
+            "benefits": [
+              "Headline branding across all physical and digital BOARD assets",
+              "Complimentary upgrade to the next stand size",
+              "Feature article in The BOARD Brief",
+              "Enhanced matchmaking concierge dedicated to your business",
+              "Featured profile in the matchmaking platform",
+              "Prominent branding across all physical and digital BOARD assets",
+              "LinkedIn announcement of your partnership",
+              "Your side events listed on the official agenda"
+            ]
+          }
+        ],
+        "discount": 0
+      },
+      "savedAt": 1793617495800,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [
+        "Relationship building"
+      ],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-11-02T11:04:55.8+00:00"
+  },
+  {
+    "id": "wework-j25ae6",
+    "data": {
+      "id": "wework-j25ae6",
+      "cta": "seat",
+      "intro": "",
+      "sector": "",
+      "company": "WeWork",
+      "logoUrl": "assets/proposal-logos/1787559264267-WE.D-060000f3.png",
+      "manager": "",
+      "savedAt": 1787559272836,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [
+        "Product demonstration",
+        "Lead generation"
+      ],
+      "hideCatalogue": false,
+      "logoUrlOriginal": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1787559264267-WE.D-060000f3.png"
+    },
+    "updated_at": "2026-08-24T08:14:32.836+00:00"
+  },
+  {
+    "id": "winston-taylor-jnnyp9",
+    "data": {
+      "id": "winston-taylor-jnnyp9",
+      "cta": "talk",
+      "intro": "",
+      "sector": "Legal, Regulatory & Compliance",
+      "company": "Winston Taylor",
+      "logoUrl": "assets/proposal-logos/1785502265411-Firm-logo.png",
+      "manager": "",
+      "savedAt": 1785769022656,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": false,
+      "objectives": [],
+      "hideCatalogue": false,
+      "logoUrlOriginal": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1785502265411-Firm-logo.png"
+    },
+    "updated_at": "2026-08-03T14:57:02.656+00:00"
+  },
+  {
+    "id": "zurich-ksmw15",
+    "data": {
+      "id": "zurich-ksmw15",
+      "cta": "talk",
+      "mode": "package",
+      "intro": "Dear Zurich team, \n\nWe're building a new landmark forum for European Private Enterprise, and we want Zurich in the room. \n\nPlease find below a preferential partnership proposal. This is supposed to be a starting point and we can of course tailor to suit your aims. Our hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to exploring further,",
+      "sector": "Insurance",
+      "company": "Zurich",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1793796465692-ZURN.SW_BIG.D-65d84d2b.png",
+      "manager": "Jake",
+      "package": {
+        "items": [
+          {
+            "type": "passes",
+            "unit": 2745,
+            "count": 2
+          },
+          {
+            "type": "meetings",
+            "unit": 950,
+            "count": 10
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471295520-public-speaker.jpg",
+            "price": 0.01,
+            "title": "Speaking Opportunity for a Senior Leader at Zurich",
+            "summary": "BOARD's programme is built for the European CEOs, Chairs, Non Executive Directors and investors in the room, and every session has to earn its place. Speaking opportunities are not sold. We work with partners only where there is genuine alignment: a shared view of the challenges facing Europe's private companies, and a contribution our audience will value, whether that is research, data or the experience of senior leaders.",
+            "benefits": [
+              "Where alignment exists, partners work closely with our content team to shape sessions within the programme.",
+              "BOARD retains editorial responsibility for the format, the topic and the participants, so that what reaches the stage is useful to the people in the room. This protects the standard of the forum, and with it the value of being part of it."
+            ]
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471317074-C-bvergely_port-hercule-nuit-cropped-2.webp",
+            "price": 0.001,
+            "title": "Launch Partner Status",
+            "summary": "Zurich - Front of mind at BOARD",
+            "benefits": [
+              "Headline branding across all physical and digital BOARD assets",
+              "Complimentary upgrade to the next stand size",
+              "Feature article in The BOARD Brief",
+              "Enhanced matchmaking concierge dedicated to your business",
+              "Featured profile in the matchmaking platform",
+              "Prominent branding across all physical and digital BOARD assets",
+              "LinkedIn announcement of your partnership",
+              "Your side events listed on the official agenda"
+            ]
+          }
+        ],
+        "discount": 0
+      },
+      "savedAt": 1793796717352,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [
+        "Relationship building",
+        "Thought leadership"
+      ],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-11-04T12:51:57.352+00:00"
+  }
+]
