@@ -2819,6 +2819,72 @@
     "updated_at": "2026-10-02T18:03:09.815+00:00"
   },
   {
+    "id": "ubp-tj14u8",
+    "data": {
+      "id": "ubp-tj14u8",
+      "cta": "talk",
+      "mode": "package",
+      "intro": "Dear UBP team, \n\nWe're building a new landmark forum for European Private Enterprise, and we want UBP in the room. \n\nPlease find below a preferential partnership proposal. This is supposed to be a starting point and we can of course tailor to suit your aims. Our hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to exploring further,",
+      "sector": "",
+      "company": "UBP",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1793897210142-Union_Bancaire_Priv-e_logo.svg.webp",
+      "manager": "Jake",
+      "package": {
+        "items": [
+          {
+            "type": "passes",
+            "unit": 2745,
+            "count": 2
+          },
+          {
+            "type": "meetings",
+            "unit": 950,
+            "count": 10
+          },
+          {
+            "type": "opp",
+            "oppId": "lunch",
+            "price": 10000
+          },
+          {
+            "type": "opp",
+            "oppId": "dinner",
+            "price": 20000
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471317074-C-bvergely_port-hercule-nuit-cropped-2.webp",
+            "price": 0.001,
+            "title": "Launch Partner Status",
+            "summary": "UBP - Front of mind at BOARD",
+            "benefits": [
+              "Headline branding across all physical and digital BOARD assets",
+              "Complimentary upgrade to the next stand size",
+              "Feature article in The BOARD Brief",
+              "Enhanced matchmaking concierge dedicated to your business",
+              "Featured profile in the matchmaking platform",
+              "Prominent branding across all physical and digital BOARD assets",
+              "LinkedIn announcement of your partnership",
+              "Your side events listed on the official agenda"
+            ]
+          }
+        ],
+        "discount": 0
+      },
+      "savedAt": 1793897309824,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [
+        "Relationship building"
+      ],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-11-05T16:48:29.824+00:00"
+  },
+  {
     "id": "vercel-x395ld",
     "data": {
       "id": "vercel-x395ld",
