@@ -1,0 +1,1636 @@
+[
+  {
+    "id": 1,
+    "data": [
+      {
+        "__meta": true,
+        "ceoCount": 200,
+        "publishedAt": 1794309144881
+      },
+      {
+        "id": "new-1784032814601",
+        "grad": 1,
+        "icon": "store",
+        "name": "Exhibition Space",
+        "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/1784206277728-opp.jpg",
+        "intro": "Whether you're looking for a straightforward presence or a fully bespoke activation, BOARD offers a range of exhibition options to suit different objectives. Turnkey booths provide a high-quality, ready-to-use solution, while larger space-only stands give you the freedom to create a branded environment tailored to your business.",
+        "price": "€11,500",
+        "hidden": true,
+        "sectors": [],
+        "summary": "Turnkey and space-only options available.",
+        "category": "Dedicated Space",
+        "included": [],
+        "subtitle": "A place to host the conversation",
+        "objectives": [
+          "Brand awareness",
+          "Product demonstration",
+          "Lead generation",
+          "Relationship building"
+        ],
+        "description": [
+          {
+            "b": "A polished, ready-to-go presence that puts your brand at the heart of the exhibition, allowing you to focus on conversations, not logistics.\nComes with 2 Associate Passes included",
+            "t": "3 x 3m Booth (Turnkey)"
+          },
+          {
+            "b": "More space to bring your brand to life, host meaningful conversations and create a standout presence, with all the convenience of a fully built turnkey solution.\nComes with 3 Associate Passes included",
+            "t": "3 x 6m Booth (Turnkey)"
+          },
+          {
+            "b": "A blank canvas for brands looking to create something truly distinctive, with complete freedom to design an experience that reflects who you are.\nComes with 5 Associate Passes included",
+            "t": "6 x 6m Booth (Space Only)"
+          },
+          {
+            "b": "Our flagship exhibition footprint, offering the scale and flexibility to deliver an unforgettable brand experience through a fully bespoke space.\nComes with 7 Associate Passes included",
+            "t": "6 x 9m Booth (Space Only)"
+          }
+        ],
+        "pricePrefix": "FROM"
+      },
+      {
+        "id": "new-1784188154266",
+        "grad": 1,
+        "icon": "pencil-sparkles",
+        "name": "An Engagement Designed Just For You",
+        "image": "assets/opportunity-photos/bespoke-engagement.jpg",
+        "intro": "Some partners want more than visibility. They want to create a moment: a space or an experience that becomes a critical part of how the BOARD community comes together. For those partners, we design bespoke activations tailored to their objectives",
+        "price": "POA",
+        "hidden": false,
+        "sectors": [],
+        "summary": "Built around your brand and objectives",
+        "category": "Bespoke",
+        "included": [],
+        "subtitle": "Something Unique at BOARD",
+        "objectives": [
+          "Brand awareness",
+          "Lead generation",
+          "Thought leadership",
+          "Relationship building",
+          "Product demonstration"
+        ],
+        "description": [
+          {
+            "b": "Rather than selecting from a fixed menu of sponsorship placements, we'll work with you to create something totally distinctive: an activation that reflects your brand, your expertise and the conversations you want to be part of, in a setting that is unmistakably your own.",
+            "t": ""
+          },
+          {
+            "b": "The result is a memorable focal point that places your brand at the centre of the interactions unfolding around it.",
+            "t": ""
+          }
+        ],
+        "pricePrefix": ""
+      },
+      {
+        "id": "new-1790254138983",
+        "grad": "5",
+        "icon": "store",
+        "name": "3x3 Turnkey Booth",
+        "image": "assets/opportunity-photos/3x3-stand.jpg",
+        "intro": "A high-quality booth for a straightforward presence on the show floor. Everything is built and in place on arrival.",
+        "price": "€11,500",
+        "hidden": false,
+        "sectors": [],
+        "summary": "",
+        "category": "Dedicated Space",
+        "included": [
+          "Backwall with graphics, demo + front counters, two stools, wastebasket",
+          "Power drop and power strip at the reception counter",
+          "32\" monitor mounted to the backwall",
+          "Uniform carpet selected by BOARD, no action needed on your part",
+          "Lockable storage in both counters",
+          "3 Associate Passes"
+        ],
+        "subtitle": "Exhibition Space",
+        "objectives": [
+          "Brand awareness",
+          "Lead generation",
+          "Relationship building",
+          "Product demonstration"
+        ],
+        "description": [],
+        "pricePrefix": ""
+      },
+      {
+        "id": "new-1790254641680",
+        "grad": "5",
+        "icon": "store",
+        "name": "3x6 Turnkey Booth",
+        "image": "assets/opportunity-photos/3x6-stand.jpg",
+        "intro": "Double the footprint of the standard booth, with the same turnkey build, giving your team room to host demos and conversations side by side.",
+        "price": "€18,500",
+        "hidden": false,
+        "sectors": [],
+        "summary": "",
+        "category": "Dedicated Space",
+        "included": [
+          "Backwall with graphics, demo + front counters, two stools, wastebasket",
+          "Power drop and power strip at the reception counter",
+          "32\" monitor mounted to the backwall",
+          "Uniform carpet selected by BOARD, no action needed on your part",
+          "Lockable storage in both counters",
+          "5 Associate Passes"
+        ],
+        "subtitle": "Exhibition Space",
+        "objectives": [
+          "Brand awareness",
+          "Lead generation",
+          "Relationship building",
+          "Product demonstration"
+        ],
+        "description": [],
+        "pricePrefix": ""
+      },
+      {
+        "id": "new-1790254977773",
+        "grad": "5",
+        "icon": "store",
+        "name": "6x6 Space Only",
+        "image": "assets/opportunity-photos/6x6-stand.jpg",
+        "intro": "A large open footprint giving you the freedom to create a fully branded environment tailored to your business.",
+        "price": "€32,500",
+        "hidden": false,
+        "sectors": [],
+        "summary": "",
+        "category": "Dedicated Space",
+        "included": [
+          "7 Associate Passes"
+        ],
+        "subtitle": "Exhibition Space",
+        "objectives": [
+          "Brand awareness",
+          "Lead generation",
+          "Relationship building",
+          "Product demonstration"
+        ],
+        "description": [
+          {
+            "b": "Design and build your own stand to your brand specification.",
+            "t": "Bespoke Activation"
+          },
+          {
+            "b": "Complimentary show-floor Wi-Fi; dedicated connection recommended for live demos.",
+            "t": "Show Floor Services"
+          },
+          {
+            "b": "All displays, signage and materials must stay within your assigned space.",
+            "t": "Display Guidelines"
+          }
+        ],
+        "pricePrefix": ""
+      },
+      {
+        "id": "new-1790255754289",
+        "grad": "5",
+        "icon": "store",
+        "name": "6x9 Space Only",
+        "image": "assets/opportunity-photos/6x9-stand.jpg",
+        "intro": "The largest footprint on the show floor, for a flagship presence and a destination activation at BOARD.",
+        "price": "€42,500",
+        "hidden": false,
+        "sectors": [],
+        "summary": "",
+        "category": "Dedicated Space",
+        "included": [
+          "10 Associate Passes"
+        ],
+        "subtitle": "Exhibition Space",
+        "objectives": [
+          "Brand awareness",
+          "Lead generation",
+          "Relationship building",
+          "Product demonstration"
+        ],
+        "description": [
+          {
+            "b": "Design and build your own stand to your brand specification.",
+            "t": "Bespoke Activation"
+          },
+          {
+            "b": "Complimentary show-floor Wi-Fi; dedicated connection recommended for live demos.",
+            "t": "Show Floor Services"
+          },
+          {
+            "b": "All displays, signage and materials must stay within your assigned space.",
+            "t": "Display Guidelines"
+          }
+        ],
+        "pricePrefix": ""
+      },
+      {
+        "id": "new-1793618931278",
+        "grad": 1,
+        "icon": "store",
+        "name": "3x3 Exhibition Space",
+        "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/1793722840066-2ceb48ce-0e8f-4c54-9e5a-59ca7b35f43d.jpg",
+        "intro": "A high-quality booth for a straightforward presence on the show floor. Everything is built and in place on arrival.",
+        "price": "€11,500",
+        "hidden": true,
+        "sectors": [],
+        "summary": "",
+        "category": "Dedicated Space",
+        "included": [
+          "Large dark wood Titan luxury conference table. 2.3mW x 1.1mD",
+          " White Clio conference chairs (x4)",
+          "Uniform carpet selected by BOARD",
+          "3 Associate Passes",
+          "Power drop"
+        ],
+        "subtitle": "Exhibition Space",
+        "objectives": [
+          "Brand awareness",
+          "Lead generation",
+          "Relationship building",
+          "Product demonstration"
+        ],
+        "description": [],
+        "pricePrefix": ""
+      },
+      {
+        "id": "new-1786369501416",
+        "grad": 1,
+        "icon": "presentation",
+        "name": "Patio Meeting Rooms",
+        "image": "assets/opportunity-photos/patio-room.jpg",
+        "intro": "Claim your own private meeting space at BOARD. These exclusive suites give your team a dedicated space to host C-suite guests, conduct discussions, and run your event schedule on your own terms.",
+        "price": "€17,500",
+        "hidden": false,
+        "sectors": [],
+        "summary": "Secure an exclusive, bright and spacious private suite to host meetings away from the crowd.",
+        "category": "Dedicated Space",
+        "included": [],
+        "subtitle": "Your Private Monaco Boardroom",
+        "objectives": [
+          "Thought leadership"
+        ],
+        "description": [
+          {
+            "b": "Keep your key client meetings focused, seamless, and completely private across all event days.",
+            "t": "Guaranteed Privacy"
+          },
+          {
+            "b": "Provide a tailored atmosphere with custom seating layouts and elevated food/beverage service.",
+            "t": "Custom Experience"
+          },
+          {
+            "b": "Conduct effortless global calls with video conferencing bars and smart acoustic paneling for crystal clear sound.",
+            "t": "Hybrid Capabilities"
+          }
+        ],
+        "pricePrefix": ""
+      },
+      {
+        "id": "new-1784129045565",
+        "grad": 1,
+        "icon": "handshake",
+        "name": "Curated 1:1 Meetings with CEOs",
+        "image": "assets/opportunity-photos/meetings-ceos.avif",
+        "intro": "While traditional deal processes often begin once a company is already in market, many of the most valuable investment relationships start much earlier through trusted introductions. BOARD's introductions programme is designed to create those connections and ensure they progress to face-to-face.",
+        "price": "POA",
+        "hidden": false,
+        "sectors": [
+          "Investment & M&A Advisory"
+        ],
+        "summary": "Pre-scheduled appointments with business leaders looking for funding to scale",
+        "category": "Meetings",
+        "included": [],
+        "subtitle": "Between investors and company leadership",
+        "objectives": [
+          "Lead generation",
+          "Relationship building"
+        ],
+        "description": [
+          {
+            "b": "Ahead of the event, investors and company leaders share detail on their focus and priorities. Using this information, the BOARD team works directly with both sides to identify strong potential matches and schedule meetings where there is genuine mutual interest.",
+            "t": ""
+          },
+          {
+            "b": "The result is a series of focused conversations between investors and CEOs, creating the conditions for off-market opportunities and long-term investment relationships to emerge — not chance encounters, and not generic networking.",
+            "t": ""
+          },
+          {
+            "b": "It creates a structured way to meet capital partners in a setting designed for deep discussion and alignment.",
+            "t": "For CEOs"
+          },
+          {
+            "b": "It provides efficient access to companies worth knowing, before you hear about them on the grapevine.",
+            "t": "For Investors"
+          }
+        ],
+        "pricePrefix": ""
+      },
+      {
+        "id": "new-1784129511393",
+        "grad": 1,
+        "icon": "handshake",
+        "name": "Curated 1:1 Meetings with C-Suite",
+        "image": "assets/opportunity-photos/meetings-c-suite.avif",
+        "intro": "Major business decisions are rarely made by CEOs alone. Technology, transformation and strategic initiatives are increasingly led by executives such as CFOs, COOs, CTOs and other functional leaders with the mandate, influence and budget to drive change. BOARD creates dedicated time for these leaders to meet organisations that can help solve their most important business challenges.",
+        "price": "€9,500",
+        "hidden": false,
+        "sectors": [
+          "Enterprise Tech & AI",
+          "Management Consultancy",
+          "Cyber Security",
+          "Legal, Regulatory & Compliance",
+          "Insurance",
+          "ESG",
+          "Executive Search"
+        ],
+        "summary": "Pre-scheduled appointments with your target audience",
+        "category": "Meetings",
+        "included": [],
+        "subtitle": "Between Exec Teams & Trusted partners",
+        "objectives": [
+          "Lead generation",
+          "Relationship building"
+        ],
+        "description": [
+          {
+            "b": "Ahead of the event, executive teams share the priorities they are focused on, while partners outline the expertise and capabilities they offer. The BOARD team uses this information to identify strong mutual alignment and schedule a series of highly relevant meetings.",
+            "t": ""
+          },
+          {
+            "b": "The result is a series of high-value conversations between organisations with genuine strategic alignment, replacing cold outreach and chance encounters with meaningful dialogue.",
+            "t": ""
+          },
+          {
+            "b": "It opens dedicated conversations with carefully selected organisations aligned to their strategic priorities.",
+            "t": "For C-Suite Leaders"
+          },
+          {
+            "b": "It creates meaningful face time with the executives responsible for evaluating, recommending and investing in new technologies, services and strategic partnerships.",
+            "t": "For Tech & Advisory Partners"
+          }
+        ],
+        "pricePrefix": "10 FOR"
+      },
+      {
+        "id": "registration",
+        "grad": 3,
+        "icon": "scan-line",
+        "name": "Registration Partner",
+        "image": "assets/opportunity-photos/registration.png",
+        "intro": "This package offers impactful visibility that begins long before the event starts. Your brand is the primary facilitator of the attendee arrival experience.",
+        "price": "€20,000",
+        "hidden": false,
+        "sectors": [],
+        "summary": "Host the arrival every delegate passes through.",
+        "category": "Arrival",
+        "included": [
+          "Welcome drinks add-on — €20,000"
+        ],
+        "subtitle": "Your brand is the first impression",
+        "objectives": [
+          "Brand awareness",
+          "Relationship building"
+        ],
+        "description": [
+          {
+            "b": "Dominant branding across the main registration backdrop where every attendee checks in.",
+            "t": "Welcome wall"
+          },
+          {
+            "b": "Your brand is integrated into the check-in flow, where there will be visibility among the 2,000 attendees.",
+            "t": "Lead capture"
+          },
+          {
+            "b": "Registration staff will wear branded items, further cementing your brand as the host of the arrival experience.",
+            "t": "Staff branding"
+          },
+          {
+            "b": "Your brand will feature on the pre-event communications regarding registration.",
+            "t": "Digital presence"
+          }
+        ],
+        "pricePrefix": ""
+      },
+      {
+        "id": "shuttle",
+        "grad": 9,
+        "icon": "bus",
+        "name": "Airport & Hotel Shuttle",
+        "image": "assets/opportunity-photos/shuttle.avif",
+        "intro": "Be the first and last brand they see. Facilitate the executive transition from the runway to the event, making the delegate's journey effortless and comfortable.",
+        "price": "€17,500",
+        "hidden": false,
+        "sectors": [],
+        "summary": "Be the first and last brand of the journey.",
+        "category": "Arrival",
+        "included": [],
+        "subtitle": "Seamless arrival partner",
+        "objectives": [
+          "Brand awareness"
+        ],
+        "description": [
+          {
+            "b": "External and internal branding on the luxury shuttle vehicles.",
+            "t": "Prominent branding"
+          },
+          {
+            "b": "Ability to place a branded water bottle or travel guide on every seat.",
+            "t": "The 'Welcome Kit'"
+          },
+          {
+            "b": "Your logo featured on the “Where is my shuttle?” live map in the event app.",
+            "t": "Digital GPS tracking"
+          }
+        ],
+        "pricePrefix": ""
+      },
+      {
+        "id": "concierge",
+        "grad": 8,
+        "icon": "bell",
+        "name": "Onsite Concierge",
+        "image": "assets/opportunity-photos/concierge.avif",
+        "intro": "Position your brand as the ultimate problem solver. From booking dinner\nreservations to sorting travel logistics, the concierge is the hub of executive\nassistance.",
+        "price": "€20,000",
+        "hidden": false,
+        "sectors": [],
+        "summary": "Be the brand that solves every delegate need.",
+        "category": "Experience & Wellness",
+        "included": [],
+        "subtitle": "The personal guest partner",
+        "objectives": [
+          "Brand awareness",
+          "Relationship building"
+        ],
+        "description": [
+          {
+            "b": "Dominant branding on the central concierge desk and digital portal.",
+            "t": "The help hub"
+          },
+          {
+            "b": "Concierge staff wearing branded accessories or uniforms.",
+            "t": "Personalised support"
+          },
+          {
+            "b": "Sponsorship of all SMS/Email alerts sent by the concierge to delegates.",
+            "t": "Digital touch"
+          }
+        ],
+        "pricePrefix": ""
+      },
+      {
+        "id": "barista",
+        "grad": 7,
+        "icon": "coffee",
+        "name": "Coffee & Espresso Cart",
+        "image": "assets/opportunity-photos/coffee-cart.avif",
+        "intro": "Everyone knows the best ideas often start over a great cup of coffee. As a\nBarista Partner, your brand hosts one of three dedicated energy hubs where\nEurope’s top leaders gather to recharge and connect. By offering premium and\npersonalised drinks at your specific location, you become a friendly face behind\nsome of the event’s most productive moments.",
+        "price": "POA",
+        "hidden": false,
+        "sectors": [],
+        "summary": "Power the break with premium branded coffee.",
+        "category": "Hospitality & Networking",
+        "included": [
+          "Pricing on request, scales with daily service hours."
+        ],
+        "subtitle": "The barista partner",
+        "objectives": [
+          "Brand awareness"
+        ],
+        "description": [
+          {
+            "b": "Your brand takes centre stage on a custom coffee cart positioned in a high-traffic\narea within the event to ensure maximum exposure to passing delegates.",
+            "t": "Standout visibility"
+          },
+          {
+            "b": "Put your logo directly into the hands of event attendees with custom-branded\nnapkins and coffee cup sleeves utilised exclusively at your station throughout\nthe day.",
+            "t": "Handling the brand"
+          },
+          {
+            "b": "Friendly signage at your designated hub, featuring your company logo and service hours. ",
+            "t": "Your personal welcome"
+          }
+        ],
+        "pricePrefix": ""
+      },
+      {
+        "id": "lunch",
+        "grad": 6,
+        "icon": "utensils",
+        "name": "Lunch Host",
+        "image": "assets/opportunity-photos/lunch-host.avif",
+        "intro": "Set the stage for the afternoon’s most important breakthroughs. As a Lunch Partner, your brand is the host of a gathering where attendees decompress from morning sessions and transition into strategic execution.",
+        "price": "€10,000",
+        "hidden": false,
+        "sectors": [],
+        "summary": "Bring together 6-12 business leaders for an curated lunch experience.",
+        "category": "Hospitality & Networking",
+        "included": [],
+        "subtitle": "Fuelling the afternoon's conversations",
+        "objectives": [
+          "Relationship building"
+        ],
+        "description": [
+          {
+            "b": "Command the table with tailored brand touches, from custom menus to premium table styling.",
+            "t": "Signature placement"
+          },
+          {
+            "b": "Position your team as the host of the conversation, moving quickly beyond introductions into deep, relationship-building dialogue.",
+            "t": "Executive proximity"
+          },
+          {
+            "b": "Invite a select group of 6-12 guests who meet your ideal profile.",
+            "t": "Curated guest list"
+          }
+        ],
+        "pricePrefix": "FROM"
+      },
+      {
+        "id": "dinner",
+        "grad": 9,
+        "icon": "martini",
+        "name": "Dinner Host",
+        "image": "assets/opportunity-photos/dinner-host.avif",
+        "intro": "BOARD dinners are designed for deep alignment and long-term relationship building away from the noise of the main floor. As a Dinner Partner, you proceed from the event’s peripheral into the private rooms where the most important choices about strategy and capital are made.",
+        "price": "€20,000",
+        "hidden": false,
+        "sectors": [],
+        "summary": "Host 12-18 handpicked execs for an intimate evening.",
+        "category": "Hospitality & Networking",
+        "included": [],
+        "subtitle": "Hosting delegates after dark",
+        "objectives": [
+          "Relationship building"
+        ],
+        "description": [
+          {
+            "b": "Collaborate with the BOARD team to design a distinctive evening experience tailored to your specific objectives.",
+            "t": "Bespoke activation"
+          },
+          {
+            "b": "Host a concentrated group of CEOs, chairs, and investors in an intimate setting designed for deep discussion and alignment.",
+            "t": "Direct access to leadership"
+          },
+          {
+            "b": "Create a lasting focal point for your brand by hosting a unique experience that becomes a highlight of the BOARD community’s time in Monaco.",
+            "t": "Memorability and focus"
+          }
+        ],
+        "pricePrefix": "FROM"
+      },
+      {
+        "id": "new-1786368713133",
+        "grad": 1,
+        "icon": "mic-vocal",
+        "name": "Speakers Lounge",
+        "image": "assets/opportunity-photos/speakers-lounge.avif",
+        "intro": "Your exclusive sponsorship of the BOARD Speaker Lounge offers branding in a turnkey lounge reserved for BOARD speakers.",
+        "price": "€10,000",
+        "hidden": false,
+        "sectors": [],
+        "summary": "Command the exclusive space reserved for industry visionaries and leaders before they take the stage.",
+        "category": "Hospitality & Networking",
+        "included": [],
+        "subtitle": "Beyond the Spotlight",
+        "objectives": [
+          "Brand awareness",
+          "Lead generation",
+          "Relationship building"
+        ],
+        "description": [
+          {
+            "b": "Host the quiet sanctuary reserved entirely for speakers before they take the main stage.",
+            "t": "Exclusive Access"
+          },
+          {
+            "b": "Position your leadership team directly alongside headline speakers in a relaxed and exclusive environment.",
+            "t": "Behind the Scenes Influence"
+          },
+          {
+            "b": "Command total room ownership, from branded hospitality and tech stations to exclusive pre-event speaker communications.",
+            "t": "Brand Authority"
+          }
+        ],
+        "pricePrefix": ""
+      },
+      {
+        "id": "new-1786375683628",
+        "grad": 1,
+        "icon": "star",
+        "name": "Investor Connect Lounge",
+        "image": "assets/opportunity-photos/investor-lounge.avif",
+        "intro": "Active across two full event days in a prime and visible area, this dedicated hub acts as the exclusive basecamp for sponsors and investors.",
+        "price": "€15,000",
+        "hidden": false,
+        "sectors": [],
+        "summary": "Own the premier space where Europe's capital and visionary founders align to do business.",
+        "category": "Hospitality & Networking",
+        "included": [],
+        "subtitle": "Powering Impactful Connections",
+        "objectives": [
+          "Brand awareness",
+          "Lead generation",
+          "Relationship building"
+        ],
+        "description": [
+          {
+            "b": "Claim total digital dominance as the sole partner across the Investor Connect Platform, participant invitation emails, and a dedicated promo email sent to all investors two weeks pre-event.",
+            "t": "Platform Ownership"
+          },
+          {
+            "b": "Prominent entry signage outside the lounge, premium digital screens, and the opportunity to offer curated in-lounge giveaways.",
+            "t": "On-site experience"
+          },
+          {
+            "b": " Command two private, fully branded 8x8m lounge spaces which are each styled with seating for up to four people.",
+            "t": "Dedicated Space"
+          }
+        ],
+        "pricePrefix": ""
+      },
+      {
+        "id": "digital-app",
+        "grad": 1,
+        "icon": "smartphone",
+        "name": "Headline App Partner",
+        "image": "assets/opportunity-photos/headline-app.png",
+        "intro": "Attendees will download the BOARD app as their primary tool for accessing event information and live updates. Launching approximately two weeks before the event, this sponsorship puts your brand front and centre throughout the crucial pre-event planning stage.",
+        "price": "€5,000",
+        "hidden": false,
+        "sectors": [],
+        "summary": "The planning tool every delegate opens, every day.",
+        "category": "Attendee Essentials",
+        "included": [],
+        "subtitle": "Navigate the BOARD experience",
+        "objectives": [
+          "Lead generation"
+        ],
+        "description": [
+          {
+            "b": "Command the digital landscape with premier logo placement on the BOARD Event App homepage cover banner image.",
+            "t": "Homepage dominance"
+          },
+          {
+            "b": "Greet every delegate the moment they engage with logo placement on the mobile event app welcome screen, visible during every single app launch.",
+            "t": "The first impression"
+          },
+          {
+            "b": "Gain early, high-authority exposure with logo placement on the official invitation emails sent to all registered attendees to facilitate their app access.",
+            "t": "Direct executive outreach"
+          },
+          {
+            "b": "Capture the undivided attention of Europe's top decision-makers with one (1) exclusive vertical advertisement featured directly on the event app homepage.",
+            "t": "Targeted ad space"
+          }
+        ],
+        "pricePrefix": ""
+      },
+      {
+        "id": "connectivity",
+        "grad": 2,
+        "icon": "wifi",
+        "name": "Connectivity Partner",
+        "image": "assets/opportunity-photos/connectivity.png",
+        "intro": "Your company becomes the exclusive sponsor of the BOARD Wi-Fi network,\nproviding essential connectivity for every attendee in Monaco. Your brand\nunderwrites the digital flow of ideas throughout a setting built for high-level\nplanning and collaboration.",
+        "price": "€5,000",
+        "hidden": false,
+        "sectors": [],
+        "summary": "Exclusive sponsor of the BOARD Wi-Fi network.",
+        "category": "Attendee Essentials",
+        "included": [],
+        "subtitle": "Powering the BOARD network",
+        "objectives": [
+          "Brand awareness",
+          "Lead generation"
+        ],
+        "description": [
+          {
+            "b": "You have the unique opportunity to define the attendee experience by choosing a custom network name and password (subject to BOARD team approval).",
+            "t": "Brand the access"
+          },
+          {
+            "b": "Your logo will be prominently featured at all designated wi-fi touchpoints throughout the facility, including signage in the registration area.",
+            "t": "Visible connectivity"
+          },
+          {
+            "b": "Gain unparalleled exposure with your company’s logo featured on every attendee badge alongside the network access details.",
+            "t": "Constant presence"
+          }
+        ],
+        "pricePrefix": ""
+      },
+      {
+        "id": "lanyard",
+        "grad": 4,
+        "icon": "id-card-lanyard",
+        "name": "Lanyard Partner",
+        "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/1784108254601-Lanyard-option.avif",
+        "intro": "The official BOARD lanyard is a symbol of belonging to Europe’s most ambitious\ncircle of leaders. Worn by every attendee throughout the event, this partnership\nensures every influential attendee physically carries your brand.",
+        "price": "€15,000",
+        "hidden": false,
+        "sectors": [],
+        "summary": "Your brand worn by every attendee, all three days.",
+        "category": "Attendee Essentials",
+        "included": [],
+        "subtitle": "Your brand in every conversation",
+        "objectives": [
+          "Brand awareness"
+        ],
+        "description": [
+          {
+            "b": "Your company’s logo will be featured as part of the design of the official BOARD lanyard.",
+            "t": "Premium design"
+          },
+          {
+            "b": "Every attendee will carry your brand throughout the three day event in Monaco, giving you top profile brand recognition both in-person and in event photography.",
+            "t": "Universal visibility"
+          },
+          {
+            "b": "BOARD manages the full design, print and production process to ensure a high quality finish in line with your premium standards.",
+            "t": "Effortless execution"
+          }
+        ],
+        "pricePrefix": ""
+      },
+      {
+        "id": "bag",
+        "grad": 6,
+        "icon": "shopping-bag",
+        "name": "Bag Partner",
+        "image": "assets/opportunity-photos/bag-partner.avif",
+        "intro": "The BOARD tote bag is the ultimate companion for delegates, used to carry essential insights during the event and serving as a lasting reminder long after it concludes. As the exclusive sponsor, your brand gains a presence that travels with attendees throughout the venue and beyond.",
+        "price": "€10,000",
+        "hidden": false,
+        "sectors": [],
+        "summary": "The one piece of the event delegates carry home.",
+        "category": "Attendee Essentials",
+        "included": [],
+        "subtitle": "The moveable billboard",
+        "objectives": [
+          "Brand awareness"
+        ],
+        "description": [
+          {
+            "b": "Your company's logo will be prominently featured on the official BOARD event bag offered to all attendees.",
+            "t": "Exclusive brand placement"
+          },
+          {
+            "b": "Your brand will reach 2,000 attendees who receive a bag, essentially creating moveable mini billboards.",
+            "t": "Impactful distribution"
+          },
+          {
+            "b": "To maintain a cohesive and premium aesthetic, BOARD handles the full design and manufacturing of the bags.",
+            "t": "Seamless production"
+          }
+        ],
+        "pricePrefix": ""
+      },
+      {
+        "id": "bag-insert",
+        "grad": 8,
+        "icon": "gift",
+        "name": "Bag Giveaway Insert",
+        "image": "assets/opportunity-photos/bag-inserts.jpg",
+        "intro": "Put your brand directly into the hands of leading industry thinkers. By providing a curated giveaway, your organisation moves beyond visibility to create a tangible, lasting connection with the attendees.",
+        "price": "€2,500",
+        "hidden": false,
+        "sectors": [],
+        "summary": "Put a branded giveaway into every delegate's hands.",
+        "category": "Attendee Essentials",
+        "included": [
+          "You are responsible for sourcing and delivering your chosen insert items to BOARD."
+        ],
+        "subtitle": "A touchpoint with direct connection",
+        "objectives": [
+          "Product demonstration",
+          "Brand awareness"
+        ],
+        "description": [
+          {
+            "b": "Your approved physical giveaway can include items such as notebooks, tech accessories or lifestyle items. These will be placed directly into the hands of 1,500+ delegates at the event.",
+            "t": "Direct access"
+          },
+          {
+            "b": "The BOARD team will manage the insertion process, ensuring your item is waiting in every official tote bag for the initial welcome experience.",
+            "t": "Guaranteed placement"
+          },
+          {
+            "b": "Showcase your brand's innovation through important physical touchpoints.",
+            "t": "Strategic opportunity"
+          }
+        ],
+        "pricePrefix": ""
+      },
+      {
+        "id": "headshot",
+        "grad": 5,
+        "icon": "camera",
+        "name": "Headshot Lounge",
+        "image": "assets/opportunity-photos/headshot-lounge.png",
+        "intro": "The Headshot Lounge offers attendees a premium opportunity to refresh their\nexecutive image. As the exclusive partner for this dedicated profile creation space,\nyour brand becomes synonymous with professional growth, providing a high-value\nservice that leaders will utilise and remember.",
+        "price": "€20,000",
+        "hidden": false,
+        "sectors": [],
+        "summary": "Host the executive headshot lounge.",
+        "category": "Experience & Wellness",
+        "included": [
+          "Dedicated space within on-BOARD for the headshot lounge",
+          "Branded photo backdrop",
+          "Meterboard sign with sponsor logo and hours",
+          "Standard carpeting",
+          "Professional photographer",
+          "Lead generation from all attendees that use the lounge"
+        ],
+        "subtitle": "Professional profile partner",
+        "objectives": [
+          "Lead generation"
+        ],
+        "description": [
+          {
+            "b": "Command attention with a fully branded photo backdrop and signage prominently featuring your company logo and ours.",
+            "t": "Elite brand immersion"
+          },
+          {
+            "b": "Your sponsorship provides a dedicated space equipped with a professional photographer to ensure a high-quality experience for every\nleader.",
+            "t": "Professional execution"
+          },
+          {
+            "b": "Gain direct access to the BOARD community through exclusive lead generation from every attendee who utilises the lounge to elevate their professional profile.",
+            "t": "Lead generation"
+          }
+        ],
+        "pricePrefix": ""
+      },
+      {
+        "id": "relaxation",
+        "grad": 7,
+        "icon": "flower-2",
+        "name": "Relaxation Lounge",
+        "image": "assets/opportunity-photos/relaxation-lounge.avif",
+        "intro": "Everyone requires moments of recovery and relaxation. The Relaxation Lounge\nprovides a sophisticated sanctuary where attendees can recharge amidst the\nfast-paced environment of the event. As the exclusive Wellness Partner, your\nbrand hosts this essential experience, positioning itself as a supporter of executive\nwellbeing and sustainable leadership.",
+        "price": "€30,000",
+        "hidden": false,
+        "sectors": [],
+        "summary": "Host the wellness sanctuary of the event.",
+        "category": "Experience & Wellness",
+        "included": [],
+        "subtitle": "Wellness experience partner",
+        "objectives": [
+          "Relationship building",
+          "Product demonstration"
+        ],
+        "description": [
+          {
+            "b": "Your identity is woven into the lounge through a custom welcome desk, a stunning branded feature wall, and signature meterboard signage.",
+            "t": "Suitable brand integration"
+          },
+          {
+            "b": "The lounge features two private massage stations, each fully equipped with a\nprofessional massage chair and a dedicated therapist to provide immediate\nrelaxation",
+            "t": "Premium relaxation service"
+          },
+          {
+            "b": "Includes a landing app page or check-in desk for seamless guest management,\nplus essential functional details like locking storage.",
+            "t": "Digital & physical touchpoints"
+          }
+        ],
+        "pricePrefix": ""
+      },
+      {
+        "id": "tasting",
+        "grad": 2,
+        "icon": "wine",
+        "name": "Professional Tasting Partner",
+        "image": "",
+        "intro": "Host an intimate escape in the venue's premier wine shop. This isn't just a drink; it's an education. Led by an expert sommelier, guests discover rare vintages and local terroirs in a sophisticated, quiet setting, perfect for building deep relationships away from the main event floor.",
+        "price": "€30,000",
+        "hidden": true,
+        "sectors": [],
+        "summary": "An expert-led wine tasting in the venue's cellar.",
+        "category": "Experience & Wellness",
+        "included": [
+          "Optional add-on — premium glassware, branded charms or linen napkins"
+        ],
+        "subtitle": "Professional tasting partner",
+        "objectives": [
+          "Relationship building"
+        ],
+        "description": [
+          {
+            "b": "Your brand as the “Cellar Partner.”",
+            "t": "Host status"
+          },
+          {
+            "b": "Printed cards featuring your logo and wine descriptions.",
+            "t": "Branded tasting notes"
+          },
+          {
+            "b": "Ability to send “golden tickets” to select delegates for private sessions.",
+            "t": "Curated invitations"
+          },
+          {
+            "b": "Dedicated lead scanning at the entrance or during sessions.",
+            "t": "Lead generation"
+          }
+        ],
+        "pricePrefix": ""
+      },
+      {
+        "id": "gelateria",
+        "grad": 3,
+        "icon": "ice-cream-cone",
+        "name": "A Taste of the Riviera",
+        "image": "",
+        "intro": "Everyone loves an ice cream break. By sponsoring the sweetest spot in the venue, your brand becomes the ultimate sensation of the afternoon. This activation drives high-frequency, organic foot traffic and associates your brand with a moment of genuine delight and relaxation.",
+        "price": "€17,500",
+        "hidden": true,
+        "sectors": [],
+        "summary": "The sweetest, most-visited spot in the venue.",
+        "category": "Experience & Wellness",
+        "included": [],
+        "subtitle": "The Gelateria",
+        "objectives": [
+          "Brand awareness"
+        ],
+        "description": [
+          {
+            "b": "Create a signature flavour named after your company or latest product.",
+            "t": "Custom flavours"
+          },
+          {
+            "b": "Your logo on every cup, wafer sleeve, and napkin.",
+            "t": "Branded serves"
+          },
+          {
+            "b": "“Hosted by” branding at the shop entrance and on the main digital schedules.",
+            "t": "Signage"
+          },
+          {
+            "b": "Integrated lead scanning at the point of service, building a database of every delegate who visits the shop.",
+            "t": "Lead capture"
+          }
+        ],
+        "pricePrefix": ""
+      },
+      {
+        "id": "breakfast",
+        "grad": 5,
+        "icon": "croissant",
+        "name": "Private Breakfast Briefing",
+        "image": "",
+        "intro": "Start the day with total exclusivity in one of Monaco's most legendary hotels. Host a curated group of VIPs for a morning briefing in a sophisticated, private environment right opposite the casino square.",
+        "price": "€12,500",
+        "hidden": true,
+        "sectors": [],
+        "summary": "A private VIP breakfast briefing in Monaco.",
+        "category": "Experience & Wellness",
+        "included": [],
+        "subtitle": "Paris Hotel",
+        "objectives": [
+          "Relationship building"
+        ],
+        "description": [
+          {
+            "b": "Exclusive use of the private area for your chosen morning at one of Monaco's most legendary hotels, opposite the casino square.",
+            "t": "Host authority"
+          },
+          {
+            "b": "Ability to control the guest list (30–50 pax).",
+            "t": "Executive intimacy"
+          },
+          {
+            "b": "Custom menus and table signage throughout the breakfast.",
+            "t": "Premium branding"
+          }
+        ],
+        "pricePrefix": "FROM"
+      },
+      {
+        "id": "studio",
+        "grad": 1,
+        "icon": "mic",
+        "name": "Studio Sponsor",
+        "image": "",
+        "intro": "Be the voice behind the ideas that scale. As our official Studio Sponsor, you host a dedicated space where the continent's most ambitious leaders share their growth stories. Active for all 2.5 event days, this lounge serves as a broadcast hub for both podcast and video content, positioning your brand as a central pillar of the conversations shaping the future of business.",
+        "price": "€25,000",
+        "hidden": true,
+        "sectors": [],
+        "summary": "Host BOARD's podcast & video studio.",
+        "category": "Experience & Wellness",
+        "included": [],
+        "subtitle": "Amplifying the lead voices",
+        "objectives": [
+          "Thought leadership"
+        ],
+        "description": [
+          {
+            "b": "Take centre stage as the overall exclusive sponsor of the BOARD Podcast Lounge, a custom space featuring furniture and carpeting, with a minimum of two studio booths.",
+            "t": "Exclusive brand hub"
+          },
+          {
+            "b": "Your identity will be featured prominently alongside BOARD branding on the exterior of the podcast booths, ensuring everyone in the vicinity recognises your involvement.",
+            "t": "Impactful visibility"
+          },
+          {
+            "b": "Influence the narrative with preferred scheduling for podcast interviews up until 3 days before the event starts.",
+            "t": "Priority content access"
+          },
+          {
+            "b": "Extend your reach beyond Monaco with custom graphics and banners for your social media and website, plus a featured listing on the official BOARD website and event app.",
+            "t": "Platform recognition"
+          }
+        ],
+        "pricePrefix": ""
+      },
+      {
+        "id": "table",
+        "grad": 4,
+        "icon": "users",
+        "name": "Table Partner",
+        "image": "",
+        "intro": "Lead and represent a table where the most important conversations happen. Sponsored Networking Tables offer your brand a dedicated presence within the main lunch environment, allowing your team to host focused discussions with Europe's most ambitious leaders.",
+        "price": "POA",
+        "hidden": true,
+        "sectors": [],
+        "summary": "Lead the conversation at your own branded table.",
+        "category": "Hospitality & Networking",
+        "included": [],
+        "subtitle": "Leading conversations in the room",
+        "objectives": [
+          "Relationship building"
+        ],
+        "description": [
+          {
+            "b": "Host your guests at a reserved networking table prominently featuring your company's branding and logo, ensuring your organisation is visible to the entire BOARD delegation.",
+            "t": "Brand real estate"
+          },
+          {
+            "b": "Use your branded hub as a natural meeting point to facilitate introductions and deepen relationships with the CEOs, chairs, and investors.",
+            "t": "Curated connection"
+          },
+          {
+            "b": "Your status as a Networking Table Partner is recognised across official event platforms, including the BOARD website and the event app.",
+            "t": "Integrated recognition"
+          }
+        ],
+        "pricePrefix": ""
+      },
+      {
+        "id": "new-1790106408535",
+        "grad": 1,
+        "icon": "sport-shoe",
+        "name": "Run Partner",
+        "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/1790852958110-premium_photo-1725905519144-1824fa3aa1a3.avif",
+        "intro": "Kick off the day with a 5K run along the iconic Riviera coastline. Designed for health-conscious attendees, this activation positions your brand at the center of active, low-pressure networking before morning sessions begin.",
+        "price": "€10,000",
+        "hidden": false,
+        "sectors": [],
+        "summary": "Lead the ultimate morning wellness activation and set the pace for Europe’s top leaders before the main stage opens.",
+        "category": "Experience & Wellness",
+        "included": [],
+        "subtitle": "Leading the Executive Wellness",
+        "objectives": [
+          "Relationship building",
+          "Brand awareness",
+          "Lead generation"
+        ],
+        "description": [
+          {
+            "b": "Be the only official Morning Wellness Partner with the exclusive event happening pre-event.",
+            "t": "Exclusive Category Ownership"
+          },
+          {
+            "b": "Creating maximum brand visibility with sponsored gear and signage.",
+            "t": "Meeting Point Billboard"
+          },
+          {
+            "b": "Include custom route maps with your logo in the digital delegate welcome pack and have contacts with your sign-ups.",
+            "t": "Digital touchpoints and leads"
+          }
+        ],
+        "pricePrefix": ""
+      },
+      {
+        "id": "new-1791289989719",
+        "grad": 1,
+        "icon": "flag",
+        "name": "Supercar Experience",
+        "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/1791290315446-Screenshot-2026-10-06-133820.jpg",
+        "intro": "Give a select group of delegates a Monaco moment they won't forget. As the Supercar Experience partner, your brand hosts passenger tours along the Riviera's most famous roads, followed by VIP hospitality at the party. This could be one of the most talked-about experiences at BOARD.",
+        "price": "€12,000",
+        "hidden": false,
+        "sectors": [],
+        "summary": "Host exclusive passenger tours along Monaco’s iconic coastal roads, paired with VIP showcase placement and party access.",
+        "category": "Hospitality & Networking",
+        "included": [],
+        "subtitle": "The Ultimate Riviera Drive",
+        "objectives": [
+          "Brand awareness",
+          "Lead generation",
+          "Relationship building"
+        ],
+        "description": [
+          {
+            "b": "Passenger tours of approx. 30–35 minutes for a total of 10 participants, based on 4 supercars with 2 or 3 rotations each.",
+            "t": "Supercar Tours"
+          },
+          {
+            "b": "VIP area at the evening reception including drinks.",
+            "t": "VIP Hospitality"
+          },
+          {
+            "b": "Sponsored area outside the reception venue displaying the cars.",
+            "t": "Brand Showcase"
+          }
+        ],
+        "pricePrefix": ""
+      },
+      {
+        "id": "welcome-reception",
+        "grad": 2,
+        "icon": "martini",
+        "name": "Headline ",
+        "image": "",
+        "intro": "As a Lead Sponsor of BOARD's Welcome Reception, your brand will be prominently featured throughout the first official networking event of BOARD 2027. Open to all attendees, this reception is the heartbeat of the event's opening, bringing Europe's most ambitious leaders together for an evening of engaging conversations and premium refreshments.",
+        "price": "€25,000",
+        "hidden": true,
+        "sectors": [],
+        "summary": "Set the stage at the first night's reception.",
+        "category": "Hospitality & Networking",
+        "included": [],
+        "subtitle": "Your brand setting the stage",
+        "objectives": [
+          "Relationship building"
+        ],
+        "description": [
+          {
+            "b": "Command attention with prominent branding throughout your reserved reception area, featuring dedicated displays and signature table signage to showcase your company to every guest.",
+            "t": "Branding & presence"
+          },
+          {
+            "b": "Secure your status as a Lead Sponsor across all official event promotions, including social media, global email campaigns, the BOARD website, and the event app.",
+            "t": "Unmatched recognition"
+          },
+          {
+            "b": "Benefit from Welcome Reception signage and gain exclusive lead generation from all registered attendees who join the evening's festivities.",
+            "t": "Direct impact"
+          }
+        ],
+        "pricePrefix": ""
+      },
+      {
+        "id": "cirque",
+        "grad": 1,
+        "icon": "sparkles",
+        "name": "Cirque Du Soirée",
+        "image": "",
+        "intro": "As delegates settle into the event, the Day 2 party is a social highlight of the week. It's where the circus sets the stage for important conversations.",
+        "price": "€25,000",
+        "hidden": true,
+        "sectors": [],
+        "summary": "Headline the Day 2 closing spectacle.",
+        "category": "Event Headline Partner",
+        "included": [
+          "Optional add-on — drone show"
+        ],
+        "subtitle": "Closing reception",
+        "objectives": [
+          "Brand awareness"
+        ],
+        "description": [
+          {
+            "b": "Digital projections and physical branding throughout the venue as the circus sets the stage for the social highlight of the week.",
+            "t": "Atmospheric branding"
+          },
+          {
+            "b": "Branded sunglasses or LED accessories.",
+            "t": "Party gifts"
+          },
+          {
+            "b": "Dedicated branded photo-moment area to drive organic reach.",
+            "t": "Social media hub"
+          },
+          {
+            "b": "Candyfloss and popcorn branded for all attendees of the show.",
+            "t": "Circus treats"
+          }
+        ],
+        "pricePrefix": ""
+      },
+      {
+        "id": "pods",
+        "grad": 7,
+        "icon": "tent-tree",
+        "name": "Outdoor Meeting Pods",
+        "image": "",
+        "intro": "Take business back to nature. These private meeting pods in the venue gardens offer a fresh-air alternative to indoor meeting rooms, perfect for creative strategy sessions.",
+        "price": "€5,000",
+        "hidden": true,
+        "sectors": [],
+        "summary": "Private garden meeting pods in the open air.",
+        "category": "Meetings",
+        "included": [],
+        "subtitle": "The garden suites",
+        "objectives": [
+          "Relationship building"
+        ],
+        "description": [
+          {
+            "b": "Exclusive branding on the pod exterior and interior glass, offering a fresh-air alternative to indoor meeting rooms — perfect for creative strategy sessions.",
+            "t": "Private domain"
+          },
+          {
+            "b": "High-speed power and screen setup inside the pod.",
+            "t": "Integrated tech"
+          },
+          {
+            "b": "Your brand name will appear in the event app as the host of your specific pod for all scheduled meetings.",
+            "t": "Booking integration"
+          }
+        ],
+        "pricePrefix": ""
+      },
+      {
+        "id": "new-1789398039985",
+        "grad": 1,
+        "icon": "utensils",
+        "name": "Marius",
+        "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/1790852481226-Screenshot-2026-10-01-095921.jpg",
+        "intro": "Chef Sébastien showcases Provence at its richest and most generous, with big convivial family-style feasts. Le Deck's private second-floor space has outstanding harbour views, ideal for large groups.",
+        "price": "€15,000",
+        "hidden": false,
+        "sectors": [],
+        "summary": "Sponsorship pricing is based on 12–18 guests. The package can be adjusted if more seats are required, within the venue capacity.",
+        "category": "Hosted Dinners",
+        "included": [
+          "1 glass of champagne and 3 canapes",
+          "3-course dinner, beverage package"
+        ],
+        "subtitle": "Le Deck",
+        "objectives": [
+          "Relationship building"
+        ],
+        "description": [
+          {
+            "b": "Hercule Harbour area",
+            "t": "Location"
+          },
+          {
+            "b": "22 & 23 March 2027",
+            "t": "Availability"
+          },
+          {
+            "b": "Le Deck up to 90 pax",
+            "t": "Capacity"
+          },
+          {
+            "b": "Provençal cuisine",
+            "t": "Cuisine"
+          }
+        ],
+        "pricePrefix": "FROM"
+      },
+      {
+        "id": "new-1789407283735",
+        "grad": 1,
+        "icon": "utensils",
+        "name": "Buddha Bar",
+        "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/1790852589404-Screenshot-2026-10-01-120256.jpg",
+        "intro": "Privatisation of the Salon by Maison Moghadam, an intimate designed room for a seated dinner. Availability is currently held for 23 March only. A beverage package is available in supplement, rates on request.",
+        "price": "€10,000",
+        "hidden": false,
+        "sectors": [],
+        "summary": "Sponsorship pricing is based on 12–18 guests. The package can be adjusted if more seats are required, within the venue capacity.",
+        "category": "Hosted Dinners",
+        "included": [
+          "1 glass of champagne and 4 canapes",
+          "3-course dinner"
+        ],
+        "subtitle": "Salon by Maison Moghadam",
+        "objectives": [
+          "Relationship building"
+        ],
+        "description": [
+          {
+            "b": "Monte-Carlo",
+            "t": "Location"
+          },
+          {
+            "b": "23 March 2027 only",
+            "t": "Availability"
+          },
+          {
+            "b": "Salon up to 22 pax",
+            "t": "Capacity"
+          },
+          {
+            "b": "Pan-Asian, designed salon",
+            "t": "Cuisine"
+          }
+        ],
+        "pricePrefix": "FROM"
+      },
+      {
+        "id": "new-1789408478919",
+        "grad": 1,
+        "icon": "utensils",
+        "name": "La Mome",
+        "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/1790852631057-Screenshot-2026-10-01-120338.jpg",
+        "intro": "A dream terrace setting facing the sea, the yacht-filled port and the Prince's Palace, with the Grand Prix circuit running past. Open 7 days a week with up to 220 seats overall. A minimum spend or rental fee applies for lounge exclusivity.",
+        "price": "€10,000",
+        "hidden": false,
+        "sectors": [],
+        "summary": "Sponsorship pricing is based on 12–18 guests. The package can be adjusted if more seats are required, within the venue capacity.",
+        "category": "Hosted Dinners",
+        "included": [
+          "1 glass of champagne and 3 canapes",
+          "3-course dinner, beverage package"
+        ],
+        "subtitle": "Private Room",
+        "objectives": [
+          "Relationship building"
+        ],
+        "description": [
+          {
+            "b": "Terrace of the Port Palais, Hercule Harbour",
+            "t": "Location"
+          },
+          {
+            "b": "22 & 23 March 2027",
+            "t": "Availability"
+          },
+          {
+            "b": "Private room up to 22 pax",
+            "t": "Capacity"
+          },
+          {
+            "b": "Contemporary Mediterranean",
+            "t": "Cuisine"
+          }
+        ],
+        "pricePrefix": "FROM"
+      },
+      {
+        "id": "new-1789409763614",
+        "grad": 1,
+        "icon": "utensils",
+        "name": "Cipriani",
+        "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/1790852663353-Screenshot-2026-10-01-120417.jpg",
+        "intro": "Elegant ambiance and impeccable service, with cuisine paying homage to classic Italian gastronomy: homemade pasta, fresh seafood and decadent desserts. Two private lounges available, or the main restaurant room.",
+        "price": "€20,000",
+        "hidden": false,
+        "sectors": [],
+        "summary": "Sponsorship pricing is based on 12–18 guests. The package can be adjusted if more seats are required, within the venue capacity.",
+        "category": "Hosted Dinners",
+        "included": [],
+        "subtitle": "Veneziana Area",
+        "objectives": [
+          "Relationship building"
+        ],
+        "description": [
+          {
+            "b": "Portier, Monaco",
+            "t": "Location"
+          },
+          {
+            "b": "22 & 23 March 2027",
+            "t": "Availability"
+          },
+          {
+            "b": "Veneziana area up to 30 pax",
+            "t": "Capacity"
+          },
+          {
+            "b": "Classic Italian, Venetian tradition",
+            "t": "Cuisine"
+          }
+        ],
+        "pricePrefix": "FROM"
+      },
+      {
+        "id": "new-1789410014898",
+        "grad": 1,
+        "icon": "utensils",
+        "name": "Salon Churchill",
+        "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/1790852690190-Screenshot-2026-10-01-120441.jpg",
+        "intro": "Privatisation of the salon Churchill, adjacent to the Michelin-starred Grill restaurant at the Hôtel de Paris. The most prestigious address in the selection, with an aperitif of champagne and barbajuans and a three-course dinner including the beverage package.",
+        "price": "€32,500",
+        "hidden": false,
+        "sectors": [],
+        "summary": "Sponsorship pricing is based on 12–18 guests. The package can be adjusted if more seats are required, within the venue capacity.",
+        "category": "Hosted Dinners",
+        "included": [
+          "1 glass of champagne and 2 barbajuans",
+          "3-course dinner, beverage package"
+        ],
+        "subtitle": "Churchill room, Hotel de Paris",
+        "objectives": [
+          "Relationship building"
+        ],
+        "description": [
+          {
+            "b": "Hôtel de Paris, Monte-Carlo",
+            "t": "Location"
+          },
+          {
+            "b": "22 & 23 March 2027",
+            "t": "Availability"
+          },
+          {
+            "b": "Up to 20 pax",
+            "t": "Capacity"
+          },
+          {
+            "b": "Michelin-starred French",
+            "t": "Cuisine"
+          }
+        ],
+        "pricePrefix": "FROM"
+      },
+      {
+        "id": "new-1789481405030",
+        "grad": 1,
+        "icon": "utensils",
+        "name": "Salon Excelsior",
+        "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/1790852719582-Screenshot-2026-10-01-120509.jpg",
+        "intro": "A Belle Époque salon at the Hôtel Hermitage, available for private hire on both dinner nights. Champagne and four canapés on arrival, followed by a three-course dinner with the beverage package included.",
+        "price": "€30,000",
+        "hidden": false,
+        "sectors": [],
+        "summary": "Sponsorship pricing is based on 12–18 guests. The package can be adjusted if more seats are required, within the venue capacity.",
+        "category": "Hosted Dinners",
+        "included": [
+          "1 glass of champagne and 4 canapes",
+          "3-course dinner, beverage package"
+        ],
+        "subtitle": "Hotel Hermitage",
+        "objectives": [
+          "Relationship building"
+        ],
+        "description": [
+          {
+            "b": "Hôtel Hermitage, Monte-Carlo",
+            "t": "Location"
+          },
+          {
+            "b": "22 & 23 March 2027",
+            "t": "Availability"
+          },
+          {
+            "b": "Up to 20 pax",
+            "t": "Capacity"
+          },
+          {
+            "b": "Classic French, Belle Époque room",
+            "t": "Cuisine"
+          }
+        ],
+        "pricePrefix": "FROM"
+      },
+      {
+        "id": "new-1789481596467",
+        "grad": 1,
+        "icon": "utensils",
+        "name": "Avenue 31",
+        "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/1790852786069-Screenshot-2026-10-01-120620.jpg",
+        "intro": "A cosy, contemporary space with a bar and lovely terrace, courteous service, and seasonal Mediterranean dishes. Led by a young Italian chef who trained alongside some of the world's most recognised chefs.",
+        "price": "€20,000",
+        "hidden": false,
+        "sectors": [],
+        "summary": "Sponsorship pricing is based on 12–18 guests. The package can be adjusted if more seats are required, within the venue capacity.",
+        "category": "Hosted Dinners",
+        "included": [
+          "1 glass of champagne and 3 canapes",
+          "3-course dinner, beverage package"
+        ],
+        "subtitle": "Inside Veranda",
+        "objectives": [
+          "Relationship building"
+        ],
+        "description": [
+          {
+            "b": "31 Avenue Princesse Grace, Monte-Carlo",
+            "t": "Location"
+          },
+          {
+            "b": "22 & 23 March 2027",
+            "t": "Availability"
+          },
+          {
+            "b": "Inside veranda up to 50 pax",
+            "t": "Capacity"
+          },
+          {
+            "b": "Modern Italian & Mediterranean",
+            "t": "Cuisine"
+          }
+        ],
+        "pricePrefix": ""
+      },
+      {
+        "id": "new-1791290462491",
+        "grad": 1,
+        "icon": "utensils",
+        "name": "Pavyllon",
+        "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/1791290679191-Screenshot-2026-10-06-134433.jpg",
+        "intro": "Yannick Alléno's Michelin-starred restaurant at the Hôtel Hermitage, with a terrace overlooking the harbour. Its private room is an intimate option in the selection and well suited to a closed-door dinner with a small group of senior leaders.",
+        "price": "€15,000",
+        "hidden": false,
+        "sectors": [],
+        "summary": "Sponsorship pricing is based on up to 10 guests, the maximum capacity of the private room.",
+        "category": "Hosted Dinners",
+        "included": [],
+        "subtitle": "Hotel Hermitage",
+        "objectives": [
+          "Relationship building"
+        ],
+        "description": [
+          {
+            "b": "Hôtel Hermitage, Monte-Carlo",
+            "t": "Location"
+          },
+          {
+            "b": "22 & 23 March 2027",
+            "t": "Availability"
+          },
+          {
+            "b": "Private room up to 10 pax",
+            "t": "Capacity"
+          },
+          {
+            "b": "Gastronomic",
+            "t": "Cuisine"
+          }
+        ],
+        "pricePrefix": ""
+      },
+      {
+        "id": "new-1791290763614",
+        "grad": 1,
+        "icon": "utensils",
+        "name": "Wine Cellar",
+        "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/1791291009391-Screenshot-2026-10-06-134951.jpg",
+        "intro": "Hidden beneath the Hôtel de Paris, its legendary wine cellar is carved into the rock and ranks among the largest in the world. A rare chance to host at a single table surrounded by vintages, with the menu and wines selected for the group.",
+        "price": "€35,000",
+        "hidden": false,
+        "sectors": [],
+        "summary": "Sponsorship pricing is based on 12–18 guests. The package can be adjusted if more seats are required, within the venue capacity.",
+        "category": "Hosted Dinners",
+        "included": [],
+        "subtitle": "Hôtel de Paris",
+        "objectives": [
+          "Relationship building"
+        ],
+        "description": [
+          {
+            "b": "Hôtel de Paris, Monte-Carlo",
+            "t": "Location"
+          },
+          {
+            "b": "22 & 23 March 2027",
+            "t": "Availability"
+          },
+          {
+            "b": "Up to 30 pax",
+            "t": "Capacity"
+          },
+          {
+            "b": "Selected menu & wines",
+            "t": "Cuisine"
+          }
+        ],
+        "pricePrefix": ""
+      },
+      {
+        "id": "new-1791291805662",
+        "grad": 1,
+        "icon": "utensils",
+        "name": "Salon Méditerranée",
+        "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/1791291969808-Screenshot-2026-10-06-140559.jpg",
+        "intro": "A sunlit private salon at the Hôtel Métropole, steps from Casino Square, with tall arched windows opening onto the gardens. It pairs classic Monte-Carlo elegance with a three-course dinner and the beverage package included.",
+        "price": "€17,500",
+        "hidden": false,
+        "sectors": [],
+        "summary": "Sponsorship pricing is based on 12–18 guests. The package can be adjusted if more seats are required, within the venue capacity.",
+        "category": "Hosted Dinners",
+        "included": [],
+        "subtitle": "Métropole Hotel",
+        "objectives": [
+          "Relationship building"
+        ],
+        "description": [
+          {
+            "b": "Métropole Hotel, Monte-Carlo",
+            "t": "Location"
+          },
+          {
+            "b": "23 March 2027 only",
+            "t": "Availability"
+          },
+          {
+            "b": "Up to 40 pax",
+            "t": "Capacity"
+          },
+          {
+            "b": "3-course dinner",
+            "t": "Cuisine"
+          }
+        ],
+        "pricePrefix": ""
+      }
+    ]
+  }
+]

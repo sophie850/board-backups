@@ -5,7 +5,7 @@
       {
         "__meta": true,
         "ceoCount": 200,
-        "publishedAt": 1793722851881
+        "publishedAt": 1794309144881
       },
       {
         "id": "new-1784032814601",
@@ -224,7 +224,7 @@
         "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/1793722840066-2ceb48ce-0e8f-4c54-9e5a-59ca7b35f43d.jpg",
         "intro": "A high-quality booth for a straightforward presence on the show floor. Everything is built and in place on arrival.",
         "price": "€11,500",
-        "hidden": false,
+        "hidden": true,
         "sectors": [],
         "summary": "",
         "category": "Dedicated Space",
