@@ -1630,6 +1630,31 @@
     "updated_at": "2026-10-02T08:42:55.399+00:00"
   },
   {
+    "id": "invest-monaco-1nhkyg",
+    "data": {
+      "id": "invest-monaco-1nhkyg",
+      "cta": "talk",
+      "mode": "brochure",
+      "intro": "Dear Invest Monaco Team, \n\nWe're building a new European forum for Private Enterprise, in Monaco. \n\nWe think you should be front and centre - here are a few ways you could get involved. \n\nWe look forward to exploring further.",
+      "sector": "",
+      "company": "Invest Monaco",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1794403178787-aeae0ca28135-INVEST_MONACO_CMJN_HD_300_dpi.jpg.png",
+      "manager": "The BOARD Team",
+      "savedAt": 1794403308866,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [
+        "Relationship building",
+        "Brand awareness"
+      ],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-11-11T13:21:48.866+00:00"
+  },
+  {
     "id": "korn-ferry-auwgpc",
     "data": {
       "id": "korn-ferry-auwgpc",

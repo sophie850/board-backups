@@ -1,3 +1,3 @@
-Backup 2026-11-11T10:38:34.805Z
-Proposals: 73
-Files: 0 new, 153 already backed up, 0 failed
+Backup 2026-11-12T10:51:37.525Z
+Proposals: 74
+Files: 1 new, 153 already backed up, 0 failed
