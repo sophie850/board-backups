@@ -5,7 +5,7 @@
       {
         "__meta": true,
         "ceoCount": 200,
-        "publishedAt": 1794309144881
+        "publishedAt": 1794560559382
       },
       {
         "id": "new-1784032814601",
@@ -221,19 +221,20 @@
         "grad": 1,
         "icon": "store",
         "name": "3x3 Exhibition Space",
-        "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/1793722840066-2ceb48ce-0e8f-4c54-9e5a-59ca7b35f43d.jpg",
+        "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/1794560535026-board-meeting-space.jpg",
         "intro": "A high-quality booth for a straightforward presence on the show floor. Everything is built and in place on arrival.",
         "price": "€11,500",
-        "hidden": true,
+        "hidden": false,
         "sectors": [],
         "summary": "",
         "category": "Dedicated Space",
         "included": [
-          "Large dark wood Titan luxury conference table. 2.3mW x 1.1mD",
-          " White Clio conference chairs (x4)",
+          "Black Mahaut round table",
+          " White Clio conference chairs (x2)",
           "Uniform carpet selected by BOARD",
           "3 Associate Passes",
-          "Power drop"
+          "Power drop",
+          "Small Sofa "
         ],
         "subtitle": "Exhibition Space",
         "objectives": [

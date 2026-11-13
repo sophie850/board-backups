@@ -1630,6 +1630,67 @@
     "updated_at": "2026-10-02T08:42:55.399+00:00"
   },
   {
+    "id": "inflexion-pt2o23",
+    "data": {
+      "id": "inflexion-pt2o23",
+      "cta": "talk",
+      "mode": "package",
+      "intro": "Hi Emma \n\nDelighted to share how Inflexion can take your seat at the table in Monaco. \n\nBelow you'll find our delegate pricing, as well as a proposal for a pack of 1:1 curated meetings, and a hosted dinner onsite with our audience. The below is a starting point for discussion, and we can of course explore additional options and group booking rates.\n\nWe look forward to welcoming you to BOARD!\n\nBest regards",
+      "sector": "Investment & M&A Advisory",
+      "company": "Inflexion",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1794496379005-wvvhvbxjslgaaqfmojsx.png",
+      "manager": "The BOARD Team",
+      "package": {
+        "items": [
+          {
+            "type": "passes",
+            "unit": 2245,
+            "count": 1
+          },
+          {
+            "type": "meetings",
+            "unit": 950,
+            "count": 10
+          },
+          {
+            "type": "opp",
+            "oppId": "dinner",
+            "price": 15000
+          },
+          {
+            "type": "custom",
+            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471317074-C-bvergely_port-hercule-nuit-cropped-2.webp",
+            "price": 0.001,
+            "title": "Launch Partner Status",
+            "summary": "Inflexion - Front of mind at BOARD",
+            "benefits": [
+              "Headline branding across all physical and digital BOARD assets",
+              "Complimentary upgrade to the next stand size",
+              "Feature article in The BOARD Brief",
+              "Enhanced matchmaking concierge dedicated to your business",
+              "Featured profile in the matchmaking platform",
+              "Prominent branding across all physical and digital BOARD assets",
+              "LinkedIn announcement of your partnership",
+              "Your side events listed on the official agenda"
+            ]
+          }
+        ],
+        "discount": 0
+      },
+      "savedAt": 1794496496582,
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [
+        "Relationship building"
+      ],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-11-12T15:14:56.582+00:00"
+  },
+  {
     "id": "invest-monaco-1nhkyg",
     "data": {
       "id": "invest-monaco-1nhkyg",
