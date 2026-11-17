@@ -1613,6 +1613,37 @@
     "updated_at": "2026-08-14T15:13:30.46+00:00"
   },
   {
+    "id": "heidrick-struggles-mwlvud",
+    "data": {
+      "id": "heidrick-struggles-mwlvud",
+      "cta": "talk",
+      "mode": "brochure",
+      "intro": "Dear Heidrick & Struggles team, \n\nWe're building a new landmark forum for European Private Enterprise, and we want H&S in the room. \n\nTo kick-start our conversation, we have outlined a few ways you can get involved. Our hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to exploring further,",
+      "sector": "Executive Search",
+      "company": "Heidrick & Struggles",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1794844604597-HSII.D-e82e73c8.png",
+      "manager": "The BOARD Team",
+      "savedAt": 1794909801916,
+      "excluded": [],
+      "featured": [
+        "new-1786369501416",
+        "new-1784129511393",
+        "dinner",
+        "new-1793618931278",
+        "new-1784129045565"
+      ],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [
+        "Relationship building",
+        "Thought leadership"
+      ],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-11-17T10:03:21.917+00:00"
+  },
+  {
     "id": "howden-0j4nl3",
     "data": {
       "id": "howden-0j4nl3",
@@ -3056,6 +3087,106 @@
       "hideCatalogue": false
     },
     "updated_at": "2026-10-02T18:03:09.815+00:00"
+  },
+  {
+    "id": "test-h3fhfa",
+    "data": {
+      "id": "test-h3fhfa",
+      "cta": "talk",
+      "mode": "package",
+      "intro": "",
+      "sector": "Investment & M&A Advisory",
+      "company": "Test",
+      "logoUrl": "",
+      "manager": "Tsitsi",
+      "package": {
+        "items": [
+          {
+            "type": "passes",
+            "unit": 2245,
+            "count": 3
+          }
+        ],
+        "discount": 0
+      },
+      "savedAt": 1794914260633,
+      "audience": "delegate",
+      "excluded": [],
+      "featured": [],
+      "videoUrl": "",
+      "logoScale": 1,
+      "showPrice": true,
+      "objectives": [
+        "Lead generation",
+        "Thought leadership",
+        "Relationship building"
+      ],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-11-17T11:17:40.633+00:00"
+  },
+  {
+    "id": "test-vddh2v",
+    "data": {
+      "id": "test-vddh2v",
+      "cta": "seat",
+      "mode": "brochure",
+      "intro": "",
+      "sector": "Investment & M&A Advisory",
+      "company": "Test",
+      "logoUrl": "",
+      "manager": "Tsitsi",
+      "savedAt": 1794913984305,
+      "audience": "delegate",
+      "excluded": [
+        "new-1784188154266",
+        "new-1790254138983",
+        "new-1790254641680",
+        "new-1790255754289",
+        "new-1790254977773",
+        "new-1793618931278",
+        "new-1786369501416",
+        "new-1784129045565",
+        "new-1784129511393",
+        "registration",
+        "shuttle",
+        "concierge",
+        "barista",
+        "lunch",
+        "dinner",
+        "new-1786368713133",
+        "new-1786375683628",
+        "digital-app",
+        "connectivity",
+        "lanyard",
+        "bag",
+        "bag-insert",
+        "headshot",
+        "relaxation",
+        "new-1790106408535",
+        "new-1791289989719",
+        "new-1789398039985"
+      ],
+      "featured": [
+        "new-1789409763614",
+        "new-1789410014898",
+        "new-1789481405030",
+        "new-1789481596467",
+        "new-1791290462491",
+        "new-1791290763614",
+        "new-1791291805662"
+      ],
+      "videoUrl": "",
+      "logoScale": 1,
+      "showPrice": true,
+      "objectives": [
+        "Relationship building",
+        "Brand awareness",
+        "Lead generation"
+      ],
+      "hideCatalogue": true
+    },
+    "updated_at": "2026-11-17T11:13:04.305+00:00"
   },
   {
     "id": "ubp-tj14u8",
