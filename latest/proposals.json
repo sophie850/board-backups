@@ -256,58 +256,21 @@
     "data": {
       "id": "alixpartners-fqs4r6",
       "cta": "talk",
-      "mode": "package",
-      "intro": "Dear AlixPartners team, \n\nWe're building a new landmark forum for European Private Enterprise, and we want AlixPartners in the room. \n\nPlease find below a preferential partnership proposal. This is supposed to be a starting point and we can of course tailor to suit your aims. Our hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to exploring further,",
+      "mode": "brochure",
+      "intro": "Dear AlixPartners team, \n\nWe're building a new landmark forum for European Private Enterprise, and we want AlixPartners in the room. \n\nTo kick-start our conversation, we have outlined a few ways you can get involved. Our hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to exploring further,",
       "sector": "Management Consultancy",
       "company": "AlixPartners",
       "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1793624298152-2025-01-27-040527374-alix2.png",
-      "manager": "Jake",
-      "package": {
-        "items": [
-          {
-            "type": "passes",
-            "unit": 2745,
-            "count": 2
-          },
-          {
-            "type": "meetings",
-            "unit": 950,
-            "count": 10
-          },
-          {
-            "type": "custom",
-            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471295520-public-speaker.jpg",
-            "price": 0.01,
-            "title": "Speaking Opportunity for a Senior Leader at AlixPartners",
-            "summary": "BOARD's programme is built for the European CEOs, Chairs, Non Executive Directors and investors in the room, and every session has to earn its place. Speaking opportunities are not sold. We work with partners only where there is genuine alignment: a shared view of the challenges facing Europe's private companies, and a contribution our audience will value, whether that is research, data or the experience of senior leaders.",
-            "benefits": [
-              "Where alignment exists, partners work closely with our content team to shape sessions within the programme.",
-              "BOARD retains editorial responsibility for the format, the topic and the participants, so that what reaches the stage is useful to the people in the room. This protects the standard of the forum, and with it the value of being part of it."
-            ]
-          },
-          {
-            "type": "custom",
-            "image": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1791471317074-C-bvergely_port-hercule-nuit-cropped-2.webp",
-            "price": 0.001,
-            "title": "Launch Partner Status",
-            "summary": "AlixPartners - Front of mind at BOARD",
-            "benefits": [
-              "Headline branding across all physical and digital BOARD assets",
-              "Complimentary upgrade to the next stand size",
-              "Feature article in The BOARD Brief",
-              "Enhanced matchmaking concierge dedicated to your business",
-              "Featured profile in the matchmaking platform",
-              "Prominent branding across all physical and digital BOARD assets",
-              "LinkedIn announcement of your partnership",
-              "Your side events listed on the official agenda"
-            ]
-          }
-        ],
-        "discount": 0
-      },
-      "savedAt": 1794589752886,
+      "manager": "The BOARD Team",
+      "savedAt": 1794923166793,
+      "audience": "partner",
       "excluded": [],
-      "featured": [],
+      "featured": [
+        "new-1793618931278",
+        "new-1784129511393",
+        "dinner",
+        "new-1786369501416"
+      ],
       "videoUrl": "",
       "logoScale": 1.3,
       "showPrice": true,
@@ -317,7 +280,7 @@
       ],
       "hideCatalogue": false
     },
-    "updated_at": "2026-11-13T17:09:12.886+00:00"
+    "updated_at": "2026-11-17T13:46:06.793+00:00"
   },
   {
     "id": "alvarez-marsal-a2jboy",
