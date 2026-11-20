@@ -1970,6 +1970,39 @@
     "updated_at": "2026-11-02T12:06:51.694+00:00"
   },
   {
+    "id": "mckinsey-company-03avp0",
+    "data": {
+      "id": "mckinsey-company-03avp0",
+      "cta": "seat",
+      "mode": "brochure",
+      "intro": "Dear McKinsey team, \n\nWe're building a new landmark forum for European Private Enterprise, and we want McKinsey in the room. \n\nTo kick-start our conversation, we have outlined a few ways you can get involved. Our hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to connecting,",
+      "sector": "Management Consultancy",
+      "company": "McKinsey & Company",
+      "logoUrl": "assets/proposal-logos/1787323618619-mckinsey.D-f33efabe.png",
+      "manager": "The BOARD Team",
+      "savedAt": 1795106234614,
+      "audience": "partner",
+      "excluded": [],
+      "featured": [
+        "new-1793618931278",
+        "new-1786369501416",
+        "new-1784129511393",
+        "dinner",
+        "new-1786375683628"
+      ],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [
+        "Brand awareness",
+        "Relationship building",
+        "Thought leadership"
+      ],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-11-19T16:37:14.614+00:00"
+  },
+  {
     "id": "mckinsey-company-chwo71",
     "data": {
       "id": "mckinsey-company-chwo71",
@@ -2478,6 +2511,37 @@
       "hideCatalogue": false
     },
     "updated_at": "2026-10-29T16:33:58.4+00:00"
+  },
+  {
+    "id": "prodivi-mud9nh",
+    "data": {
+      "id": "prodivi-mud9nh",
+      "cta": "talk",
+      "mode": "brochure",
+      "intro": "Dear PRODIVI team, \n\nWe're building a new landmark forum for European Private Enterprise, and we want PRODIVI in the room. \n\nTo kick-start our conversation, we have outlined a few ways you can get involved. Our hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to exploring further,",
+      "sector": "Enterprise Tech & AI",
+      "company": "PRODIVI",
+      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1795104365332-Prodivi_logo_1024px-1.png",
+      "manager": "The BOARD Team",
+      "savedAt": 1795104418787,
+      "audience": "partner",
+      "excluded": [],
+      "featured": [
+        "new-1793618931278",
+        "new-1784129511393",
+        "dinner",
+        "new-1786369501416"
+      ],
+      "videoUrl": "",
+      "logoScale": 1.3,
+      "showPrice": true,
+      "objectives": [
+        "Relationship building",
+        "Thought leadership"
+      ],
+      "hideCatalogue": false
+    },
+    "updated_at": "2026-11-19T16:06:58.787+00:00"
   },
   {
     "id": "pwc-vh4q1r",
