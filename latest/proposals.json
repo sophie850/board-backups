@@ -3006,7 +3006,7 @@
       "id": "teneo-xukhh0",
       "cta": "talk",
       "mode": "package",
-      "intro": "Dear Teneo team, \n\nWe're building a new landmark forum for European Private Enterprise, and we want Teneo in the room. \n\nPlease find below a preferential partnership proposal. This is supposed to be a starting point and we can of course tailor to suit your aims. Our hope is that once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to exploring further,",
+      "intro": "Dear Teneo team, \n\nWe're building a new landmark forum for European Private Enterprise, and we want Teneo in the room. \n\nTo kick-start our conversation, we have outlined a few ways you can get involved. Ignore the total cost, we've included everything we think might be relevant, but can of course scale down to the most relevant opportunities for you. We hope once you have seen the conversations and connections BOARD creates, it will make sense to talk about a deeper partnership from 2028.\n\nLooking forward to exploring further,",
       "sector": "",
       "company": "Teneo",
       "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1793623463996-teneo-holdings.png",
@@ -3016,12 +3016,32 @@
           {
             "type": "passes",
             "unit": 2745,
-            "count": 2
+            "count": 1
+          },
+          {
+            "type": "opp",
+            "oppId": "new-1793618931278",
+            "price": null
+          },
+          {
+            "type": "opp",
+            "oppId": "new-1786369501416",
+            "price": null
+          },
+          {
+            "type": "opp",
+            "oppId": "new-1784129045565",
+            "price": 9500
           },
           {
             "type": "meetings",
             "unit": 950,
             "count": 10
+          },
+          {
+            "type": "opp",
+            "oppId": "dinner",
+            "price": 20000
           },
           {
             "type": "custom",
@@ -3054,7 +3074,8 @@
         ],
         "discount": 0
       },
-      "savedAt": 1793623508701,
+      "savedAt": 1795181348119,
+      "audience": "partner",
       "excluded": [],
       "featured": [],
       "videoUrl": "",
@@ -3066,7 +3087,7 @@
       ],
       "hideCatalogue": false
     },
-    "updated_at": "2026-11-02T12:45:08.701+00:00"
+    "updated_at": "2026-11-20T13:29:08.119+00:00"
   },
   {
     "id": "test-company-17c3mh",
