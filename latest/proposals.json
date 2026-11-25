@@ -1768,47 +1768,6 @@
     "updated_at": "2026-11-13T14:31:15.891+00:00"
   },
   {
-    "id": "insight-partners-b8x3j5",
-    "data": {
-      "id": "insight-partners-b8x3j5",
-      "cta": "talk",
-      "mode": "package",
-      "intro": "",
-      "sector": "Investment & M&A Advisory",
-      "company": "Insight Partners",
-      "logoUrl": "https://wqzbywvpwfwsvrvxrmnh.supabase.co/storage/v1/object/public/opportunity-photos/logos/1795520785919-Insight-Partners.webp",
-      "manager": "Tsitsi",
-      "package": {
-        "items": [
-          {
-            "type": "passes",
-            "unit": 2245,
-            "count": 2
-          },
-          {
-            "type": "opp",
-            "oppId": "dinner",
-            "price": 15000
-          }
-        ],
-        "discount": 0
-      },
-      "savedAt": 1795521459379,
-      "audience": "delegate",
-      "excluded": [],
-      "featured": [],
-      "videoUrl": "",
-      "logoScale": 1,
-      "showPrice": true,
-      "objectives": [
-        "Relationship building",
-        "Thought leadership"
-      ],
-      "hideCatalogue": false
-    },
-    "updated_at": "2026-11-24T11:57:39.379+00:00"
-  },
-  {
     "id": "invest-monaco-1nhkyg",
     "data": {
       "id": "invest-monaco-1nhkyg",
